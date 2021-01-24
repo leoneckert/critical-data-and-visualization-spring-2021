@@ -5,7 +5,7 @@
 *Due this Wednesday, January 27:*
 
 - Do this assignment first (strongly recommended)
--  We will spend 50% of our time in this course coding. Having a shared foundation for this is **extremely important**. I will always be there to support and assist you with problems you encounter. For now, please work your way through 👾[Coding Exercise 1 ~ Foundation](coding-exercises/exercise1-foundation) and submit your work in the end.
+-  We will spend 50% of our time in this course coding. Having a shared foundation for this is **extremely important**. I will always be there to support and assist you with problems you encounter. For now, please work your way through 👾 [Coding Exercise 1 ~ Foundation](../coding-exercises/exercise1-foundation) and submit your work in the end.
 - Here is a thorough, interactive ``basic-javascript`` tutorial if you want to brush up your skills: [Basic JavaScript](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/). And [here](https://www.codecademy.com/learn/introduction-to-javascript) is Codecadey's version.
 
 
