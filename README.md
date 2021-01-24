@@ -49,18 +49,18 @@ So, what exactly is data? How is value extracted from it? And why should we care
 ##### January 25
 ##### `cdv[0] = 'overview'`
 
-
-Intro
-Exercise: Distributed Research
-Course Overview
-[Roadmap](other/roadmap.pdf)
-Questions
+- [Slides](https://docs.google.com/presentation/d/1NiWAiGBprd8YoxktMKkk6cv4QwbUoAxZouNqKvsHoMc/edit?usp=sharing)
+- Intro
+- Exercise: Distributed Research
+- Course Overview
+- [Roadmap](other/roadmap.pdf)
+- Questions
 
 ###### Assignments
 
-- 👾Coding Exercise 1 (Foundation) *(due 1/27)*
-- 🖍Dear Data: Reading Visualizations *(due 2/1)*
-- 📖Reading 1 (Data Intro) *(due 2/7)*
+- 👾 Coding Exercise 1 (Foundation) *(due 1/27)*
+- 🖍 Dear Data: Reading Visualizations *(due 2/1)*
+- 📖 Reading 1 (Data Intro) *(due 2/7)*
 
 🔗[Assignment Details](current-assignments)
 
