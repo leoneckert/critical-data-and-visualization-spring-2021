@@ -12,7 +12,7 @@ Welcome! This page will be filled with material and links throughout the semeste
 
 #### Quick Links
 
-- [current assignments](other/current-assignments/README.md)
+- [current assignments](current-assignments/README.md)
 - Problems with Zoom or other things? >> [NYU's Digital Teaching & Learning Toolkits](https://wp.nyu.edu/toolkits/)
 
 #### Course Description
