@@ -1,7 +1,7 @@
 # Reading 1 (Data Intro)
 ̨
 #### Material
-- [Critical Questions for Big Data]() by danah boyd, Kate Crawford (2012)
+- [Critical Questions for Big Data](https://drive.google.com/file/d/1UHIPYi6UyY1hSlXQwcxkZ5EQdipexVIx/view?usp=sharing) by danah boyd, Kate Crawford (2012)
 - [Data Humanism, The Revolution will be Visualized](http://giorgialupi.com/data-humanism-my-manifesto-for-a-new-data-wold/) by Giorgia Lupi (2017)
 
 
