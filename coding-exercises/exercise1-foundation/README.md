@@ -1,4 +1,4 @@
-# Coding Foundation
+# 👾Coding Exercise 1 ~ Foundation
 ## Setup and Coding Exercise
 
 If things are unclear, please e-mail me at leon.eckert@nyu.edu.
