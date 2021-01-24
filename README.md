@@ -62,7 +62,7 @@ So, what exactly is data? How is value extracted from it? And why should we care
 - 🖍 Dear Data: Reading Visualizations *(due 2/1)*
 - 📖 Reading 1 (Data Intro) *(due 2/7)*
 
-🔗[Assignment Details](current-assignments)
+🔗 [Assignment Details](current-assignments)
 
 ###### For your interest (optional):
 

@@ -1,6 +1,6 @@
 # Assignments
 
-##### 👾Coding Exercise 1 (Foundation)
+##### 👾 Coding Exercise 1 (Foundation)
 
 *Due this Wednesday, January 27:*
 
@@ -13,7 +13,7 @@
 
 
 
-##### 🖍Dear Data: Reading Visualizations
+##### 🖍 Dear Data: Reading Visualizations
 
 *Due Monday, February 1:*
 
@@ -23,7 +23,7 @@
 
 
 
-<!-- ##### 👾Coding Exercise 2 (Form Data, Vanilla JS)
+<!-- ##### 👾 Coding Exercise 2 (Form Data, Vanilla JS)
 
 *Due Wednesday, February 3:*
 
@@ -31,23 +31,23 @@
 
 
 
-<!-- ##### 👁Watch this talk by Mike Bostock, Eyeo 2013
+<!-- ##### 👁 Watch this talk by Mike Bostock, Eyeo 2013
 *Due Wednesday, February 3:*
 - Find the talk [here]([talk](https://vimeo.com/69448223). -->
 
 
 
-##### 📖Reading 1 (Data Intro)
+##### 📖 Reading 1 (Data Intro)
 
 *Due Sunday(!), February 7, at noon:*
 
-- Find this Reading Assignment [here](readings/reading1).
+- Find this Reading Assignment [here](../readings/reading1).
 
 
 
 
 
-<!-- ##### 👾Coding Exercise 3 (Data-binding, JSON)
+<!-- ##### 👾 Coding Exercise 3 (Data-binding, JSON)
 
 *Due Wednesday, February 10:*
 
@@ -57,34 +57,17 @@
 
 
 
-<!-- ##### 📖Reading 2 (Data Bias)
+<!-- ##### 📖 Reading 2 (Data Bias)
 
 *Due Sunday(!), February 21, at noon:*
 
-- Find this Reading Assignment [here](readings/reading2). -->
+- Find this Reading Assignment [here](../readings/reading2). -->
 
 
 
 
 
-<!-- ##### 👾Coding Exercise 4 (Grouping Elements)
-
-*Due Wednesday, February 24:*
-
-- _ -->
-
-
-
-
-<!-- ##### ✂️Data Zine Paper Prototype
-
-*Due Wednesday, February 24:*
-
-- _ -->
-
-
-
-<!-- ##### 📊Read Edward Tufte's texts on Data Visualization
+<!-- ##### 👾 Coding Exercise 4 (Grouping Elements)
 
 *Due Wednesday, February 24:*
 
@@ -93,11 +76,28 @@
 
 
 
-<!-- ##### 📖Reading 3 (Surveillance Capitalism)
+<!-- ##### ✂️ Data Zine Paper Prototype
+
+*Due Wednesday, February 24:*
+
+- _ -->
+
+
+
+<!-- ##### 📊 Read Edward Tufte's texts on Data Visualization
+
+*Due Wednesday, February 24:*
+
+- _ -->
+
+
+
+
+<!-- ##### 📖 Reading 3 (Surveillance Capitalism)
 
 *Due Sunday(!), Feb 28, at noon:*
 
-- Find this Reading Assignment [here](readings/reading3). -->
+- Find this Reading Assignment [here](../readings/reading3). -->
 
 
 
@@ -111,7 +111,7 @@
 
 
 
-<!-- ##### 🖼Data Zine
+<!-- ##### 🖼 Data Zine
 
 *Due Monday, Mar 8:*
 
