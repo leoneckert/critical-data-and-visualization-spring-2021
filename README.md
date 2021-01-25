@@ -53,7 +53,7 @@ So, what exactly is data? How is value extracted from it? And why should we care
 - Intro
 - Exercise: Distributed Research
 - Course Overview
-- [Roadmap](other/roadmap.pdf)
+- [Roadmap](other/roadmap.pdf) (the grey vacation times are for reference only (not totally accurate!))
 - Questions
 
 ###### Assignments
