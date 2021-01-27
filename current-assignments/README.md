@@ -1,12 +1,12 @@
 # Assignments
 
-##### 👾 Coding Exercise 1 (Foundation)
+<!-- ##### 👾 Coding Exercise 1 (Foundation)
 
 *Due this Wednesday, January 27:*
 
 - Do this assignment first (strongly recommended)
 -  We will spend 50% of our time in this course coding. Having a shared foundation for this is **extremely important**. I will always be there to support and assist you with problems you encounter. For now, please work your way through 👾 [Coding Exercise 1 ~ Foundation](../coding-exercises/exercise1-foundation) and submit your work in the end.
-- Here is a thorough, interactive ``basic-javascript`` tutorial if you want to brush up your skills: [Basic JavaScript](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/). And [here](https://www.codecademy.com/learn/introduction-to-javascript) is Codecadey's version.
+- Here is a thorough, interactive ``basic-javascript`` tutorial if you want to brush up your skills: [Basic JavaScript](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/). And [here](https://www.codecademy.com/learn/introduction-to-javascript) is Codecadey's version. -->
 
 
 
@@ -23,17 +23,23 @@
 
 
 
-<!-- ##### 👾 Coding Exercise 2 (Form Data, Vanilla JS)
+##### 👾 Coding Exercise 2 (Form Data, plain JS)
 
 *Due Wednesday, February 3:*
 
-- _ -->
+- Create a Google Form collecting data of the "linear scale" type (like we did in this week's Lab)
+- collect responses from at least 10 people (e.g. send it to people in this class (use Slack), or open the form on your phone and walk around the cafeteria!)
+- use the techniques used in [the lab](../labs/lab1/) to
+- export the data in `json` format
+- transform it to an array with average values
+- build a bar graph using JavaScript
+  - be creative and make it look more fun than my example!
+- the last two points can be worked on simultaneously (you don't need all the responses to start working on the code)
+- [how to collect and use data with Google Forms](../labs/collect-data-google-form)
 
-
-
-<!-- ##### 👁 Watch this talk by Mike Bostock, Eyeo 2013
+##### 👁 Watch this talk by Mike Bostock, Eyeo 2013
 *Due Wednesday, February 3:*
-- Find the talk [here]([talk](https://vimeo.com/69448223). -->
+- Find the talk [here]([talk](https://vimeo.com/69448223).
 
 
 

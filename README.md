@@ -78,14 +78,19 @@ So, what exactly is data? How is value extracted from it? And why should we care
 
 
 
-<!-- ![wed](assets/days/wed-green.png)
+![wed](assets/days/wed-green.png)
 
 
 ##### January 27
 ##### `Collect Data`
 *due today: Coding Exercise 1*
 
-[content]
+- Review: web basics
+- Review: JS data structures
+- JSON
+- Collect and use data with Google Forms
+
+[Details](labs/lab1) of today's Lab.
 
 ###### Assignments
 
@@ -94,8 +99,9 @@ So, what exactly is data? How is value extracted from it? And why should we care
 
 🔗[Assignment Details](current-assignments)
 
-###### For your interest (optional): -->
+###### For your interest (optional):
 
+- Online Exhibition: "[Data Visualization and the Modern Imagination](https://exhibits.stanford.edu/dataviz)"
 
 
 
