@@ -118,9 +118,9 @@ So, what exactly is data? How is value extracted from it? And why should we care
 ##### `Data Types / Visualizations`
 *due today: Dear Data: Reading Visualizations*
 
-Data Type [Exercise](https://docs.google.com/spreadsheets/d/1tN3ky-FkUdI4t1f-GQTB4FIq05NSTX4z5U0iDnwGDVI/edit?usp=sharing) (35m)
-Present [Dear Data Visualizations](https://docs.google.com/spreadsheets/d/1PTTTbewj2zsqgztBhNZKB2ipunpI7jiok2tmm_kfhXE/edit#gid=0) (20m)
-Announce [Data Zine Project](projects/data-zine) (20m)
+- Data Type [Exercise](https://docs.google.com/spreadsheets/d/1tN3ky-FkUdI4t1f-GQTB4FIq05NSTX4z5U0iDnwGDVI/edit?usp=sharing) (35m)
+- Present [Dear Data Visualizations](https://docs.google.com/spreadsheets/d/1PTTTbewj2zsqgztBhNZKB2ipunpI7jiok2tmm_kfhXE/edit#gid=0) (20m)
+- Announce [Data Zine Project](projects/data-zine) (20m)
 
 
 
