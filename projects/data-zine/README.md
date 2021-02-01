@@ -32,7 +32,7 @@ The presentation takes the form of a screen capture video with voice over.
 
 #### Process (Coding Template)
 
-You should start ideating about the subject of your project right now. This excerpt from Dear Data might help to envision this process. The building of the website comes afterwards (we haven't even started learning D3.js yet). For the project, I will supply a coding template - the only purpose of the template is to assure all zines will have the exact same size.
+You should start ideating about the subject of your project right now. This [excerpt](https://drive.google.com/file/d/1BEVAqv67rDhuNVVjKETDDTeW09orCNxy/view?usp=sharing) from Dear Data might help to envision this process. The building of the website comes afterwards (we haven't even started learning D3.js yet). For the project, I will supply a coding template - the only purpose of the template is to assure all zines will have the exact same size.
 
 #### Useful Advice
 The format of your zine is small. Keep this is mind when deciding on the size of texts you include. The visualization will be ultimately printed. Take into consideration how well contrasts appear on paper when you choose colors. Make test prints!

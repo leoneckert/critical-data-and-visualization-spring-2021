@@ -55,7 +55,7 @@
 
 *Due Monday, February 8:*
 
-- Take a good amount of time ideating about your subject for the [Data Zine Project](../projects/data-zine). This [excerpt](https://drive.google.com/drive/folders/1ZXBsuQcTlQbHrta8ePUnHe8rPAmZAerx) from Dear Data might help to envision this process.
+- Take a good amount of time ideating about your subject for the [Data Zine Project](../projects/data-zine). This [excerpt](https://drive.google.com/file/d/1BEVAqv67rDhuNVVjKETDDTeW09orCNxy/view?usp=sharing) from Dear Data might help to envision this process.
 - In the next class, be prepared to introduce your subject.
 - Remember that ultimately, your dataset should have at least 20 individual data points, each with at least four features.
 - The phenomenon you pick must be something that occurs over time.
