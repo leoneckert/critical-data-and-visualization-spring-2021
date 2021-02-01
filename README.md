@@ -24,8 +24,8 @@ Decisions based on algorithms affect society at large whether it’s changing th
 So, what exactly is data? How is value extracted from it? And why should we care? How can we ethically balance the positive uses of data-driven systems with the threats they pose to discriminate and infringe basic human rights? This course seeks to untangle some of these issues practically and theoretically.
 
 #### Content
-- ⛳️Week 1 - `cdv[0] = 'overview'`
-- Week 2 - Data Types / Visualizations
+- [Week 1](#january-25) - `cdv[0] = 'overview'`
+- ⛳️ [Week 2](#February-1) - Data Types / Visualizations
 - Week 3 - Human / Data
 - **SPRING FESTIVAL**
 - Week 4 - Human / Bias
@@ -110,7 +110,7 @@ So, what exactly is data? How is value extracted from it? And why should we care
 
 
 <!-- # Week 2 -->
-<!-- ![week](assets/weeks/week2.png)
+![week](assets/weeks/week2.png)
 
 ![mon](assets/days/amon-red.png)
 
@@ -118,17 +118,22 @@ So, what exactly is data? How is value extracted from it? And why should we care
 ##### `Data Types / Visualizations`
 *due today: Dear Data: Reading Visualizations*
 
-[content]
+Data Type [Exercise](https://docs.google.com/spreadsheets/d/1tN3ky-FkUdI4t1f-GQTB4FIq05NSTX4z5U0iDnwGDVI/edit?usp=sharing) (35m)
+Present [Dear Data Visualizations](https://docs.google.com/spreadsheets/d/1PTTTbewj2zsqgztBhNZKB2ipunpI7jiok2tmm_kfhXE/edit#gid=0) (20m)
+Announce [Data Zine Project](projects/data-zine) (20m)
+
+
 
 ###### Assignments
 
-- 🖼Data Zine *(due 3/8)*
+- 💡 Data Zine Subject Proposal *(due 2/8)*
+- 🖼 Data Zine *(due 3/8)*
 
 🔗[Assignment Details](current-assignments)
 
 ###### For your interest (optional):
 
-- [You are Your Data: Self-Tracking Practices and Concepts of Data](https://www.researchgate.net/publication/303972155_You_are_Your_Data_Self-Tracking_Practices_and_Concepts_of_Data), Deborah Lupton (2016) -->
+- [You are Your Data: Self-Tracking Practices and Concepts of Data](https://www.researchgate.net/publication/303972155_You_are_Your_Data_Self-Tracking_Practices_and_Concepts_of_Data), Deborah Lupton (2016)
 
 
 

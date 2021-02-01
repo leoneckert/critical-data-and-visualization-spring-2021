@@ -13,12 +13,11 @@
 
 
 
-##### 🖍 Dear Data: Reading Visualizations
+<!-- ##### 🖍 Dear Data: Reading Visualizations
 
 *Due Monday, February 1:*
 
-- Dear Data is a project and book by Giorgia Lupi and Stefanie Posavec. We can learn a lot from them about visualizing data. This assignment is explained in [this spreadsheet](https://docs.google.com/spreadsheets/d/1PTTTbewj2zsqgztBhNZKB2ipunpI7jiok2tmm_kfhXE/edit?usp=sharing). Make sure to first read the introduction, then claim and study two visualizations. Be prepared to explain them in the next class.
-
+- Dear Data is a project and book by Giorgia Lupi and Stefanie Posavec. We can learn a lot from them about visualizing data. This assignment is explained in [this spreadsheet](https://docs.google.com/spreadsheets/d/1PTTTbewj2zsqgztBhNZKB2ipunpI7jiok2tmm_kfhXE/edit?usp=sharing). Make sure to first read the introduction, then claim and study two visualizations. Be prepared to explain them in the next class. -->
 
 
 
@@ -36,6 +35,8 @@
   - be creative and make it look more fun than my example!
 - the last two points can be worked on simultaneously (you don't need all the responses to start working on the code)
 - [how to collect and use data with Google Forms](../labs/collect-data-google-form)
+- When you are done, post links to Code and the Live Website to the [Class Wiki](https://github.com/leoneckert/critical-data-and-visualization-spring-2021/wiki).
+
 
 ##### 👁 Watch this talk by Mike Bostock, Eyeo 2013
 *Due Wednesday, February 3:*
@@ -49,6 +50,16 @@
 
 - Find this Reading Assignment [here](../readings/reading1).
 
+
+##### 💡 Data Zine Subject Proposal
+
+*Due Monday, February 8:*
+
+- Take a good amount of time ideating about your subject for the [Data Zine Project](../projects/data-zine). This [excerpt](https://drive.google.com/drive/folders/1ZXBsuQcTlQbHrta8ePUnHe8rPAmZAerx) from Dear Data might help to envision this process.
+- In the next class, be prepared to introduce your subject.
+- Remember that ultimately, your dataset should have at least 20 individual data points, each with at least four features.
+- The phenomenon you pick must be something that occurs over time.
+- It is highly recommended to consider a phenomenon that has nothing to do with technology and that you find poetic.
 
 
 
@@ -117,8 +128,8 @@
 
 
 
-<!-- ##### 🖼 Data Zine
+##### 🖼 Data Zine
 
 *Due Monday, Mar 8:*
 
-- _ -->
+- Find this Project [here](../projects/data-zine).
