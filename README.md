@@ -140,28 +140,36 @@ So, what exactly is data? How is value extracted from it? And why should we care
 
 
 
-<!-- --- -->
+---
 
 
 
 
 
-<!-- ![wed](assets/days/wed-green.png)
+![wed](assets/days/wed-green.png)
 
 ##### February 3
 ##### `Meet D3js I`
-*due today: Coding Exercise 2*
+*due today: Coding Exercise 2, Mike Bostock Video*
 
-[content]
+- What is a library?
+- Hi, D3!
+  - pixels vs. SVG
+  - examples
+  - Data Driven Documents
+- What you see when you see D3
+  - Something dot something dot something semicolon
+- Actual Intro to D3 (in video & text tutorial form)
+
+[Details](labs/lab2) of today's Lab.
 
 ###### Assignments
 
-- 👾Coding Exercise 3 (Data-binding, JSON) *(due 2/10)*
-- 📊Read Edward Tufte's texts on Data Visualization *(due 2/24)*
+- 👾 Coding Exercise 3 (Data-binding, JSON) *(due 2/10)*
+- 📊 Read Edward Tufte's texts on Data Visualization *(due 2/24)*
 
-🔗[Assignment Details](current-assignments)
+🔗 [Assignment Details](current-assignments)
 
-###### For your interest (optional): -->
 
 
 
@@ -187,9 +195,9 @@ So, what exactly is data? How is value extracted from it? And why should we care
 
 ###### Assignments
 
-- 📖Reading 2 (Data Bias) *(due 2/21)*
+- 📖 Reading 2 (Data Bias) *(due 2/21)*
 
-🔗[Assignment Details](current-assignments)
+🔗 [Assignment Details](current-assignments)
 
 ###### For your interest (optional): -->
 
@@ -212,10 +220,10 @@ So, what exactly is data? How is value extracted from it? And why should we care
 
 ###### Assignments
 
-- 👾Coding Exercise 4 (Grouping Elements) *(due 2/24)*
-- ✂️Data Zine Paper Prototype *(due 2/24)*
+- 👾 Coding Exercise 4 (Grouping Elements) *(due 2/24)*
+- ✂️ Data Zine Paper Prototype *(due 2/24)*
 
-🔗[Assignment Details](current-assignments)
+🔗 [Assignment Details](current-assignments)
 
 ###### For your interest (optional): -->
 
@@ -237,9 +245,9 @@ So, what exactly is data? How is value extracted from it? And why should we care
 
 ###### Assignments
 
-- 📖Reading 3 (Surveillance Capitalism) *(due 2/28)*
+- 📖 Reading 3 (Surveillance Capitalism) *(due 2/28)*
 
-🔗[Assignment Details](current-assignments)
+🔗 [Assignment Details](current-assignments)
 
 ###### For your interest (optional): -->
 
@@ -262,9 +270,9 @@ So, what exactly is data? How is value extracted from it? And why should we care
 
 ###### Assignments
 
-- 🏗Finished version of Data Zine *(due 3/3)*
+- 🏗 Finished version of Data Zine *(due 3/3)*
 
 
-🔗[Assignment Details](current-assignments)
+🔗 [Assignment Details](current-assignments)
 
 ###### For your interest (optional): -->

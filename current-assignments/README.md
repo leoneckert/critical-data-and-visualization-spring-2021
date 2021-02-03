@@ -21,7 +21,7 @@
 
 
 
-
+<!--
 ##### 👾 Coding Exercise 2 (Form Data, plain JS)
 
 *Due Wednesday, February 3:*
@@ -40,7 +40,7 @@
 
 ##### 👁 Watch this talk by Mike Bostock, Eyeo 2013
 *Due Wednesday, February 3:*
-- Find the talk [here]([talk](https://vimeo.com/69448223).
+- Find the talk [here]([talk](https://vimeo.com/69448223). -->
 
 
 
@@ -64,12 +64,16 @@
 
 
 
-<!-- ##### 👾 Coding Exercise 3 (Data-binding, JSON)
+##### 👾 Coding Exercise 3 (Data-binding, JSON)
 
 *Due Wednesday, February 10:*
 
-- _ -->
-
+- Read the notes from [the lab](../labs/lab2) carefully and watch the videos.
+- Read them again, and email me questions you have. Book my [office hours](https://calendar.google.com/calendar/u/0/selfsched?sstoken=UUE0X1AyMVlCNnpyfGRlZmF1bHR8ZTBmYjk2MTcyMjZkZmUwMzhjYTllN2IxMzlkMmQ4MTU), too.
+- Use D3 to turn the dataset you are currently collecting (started after Week 2 class) into shapes.
+- Do not worry about visualizing the data effectively, but be creative in the aesthetics.
+- create any shapes from it and use data functions in at least one spot in such a way that the value of your data point affects the shape you created using D3.
+- push your work to your repo and submit a link to the [Class Wiki](https://github.com/leoneckert/critical-data-and-visualization-spring-2021/wiki)
 
 
 
@@ -101,11 +105,15 @@
 
 
 
-<!-- ##### 📊 Read Edward Tufte's texts on Data Visualization
+##### 📊 Read Edward Tufte's texts on Data Visualization
 
 *Due Wednesday, February 24:*
 
-- _ -->
+- Read the following Chapters of The Visual Display of Quantitative Information by Edward R. Tufte:
+- "Graphical Excellence"
+- "Graphical Integrity"
+- "Sources of Graphical Integrity and Sophistication"
+  - I highly recommend getting a physical copy from the library. A [digital version](https://drive.google.com/file/d/1z-dc0YQbjw9V-zSbGmswiCdIlLi7PQ6f/view?usp=sharing) can be found here.
 
 
 
