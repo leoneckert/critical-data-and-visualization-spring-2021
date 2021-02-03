@@ -68,12 +68,15 @@
 
 *Due Wednesday, February 10:*
 
-- Read the notes from [the lab](../labs/lab2) carefully and watch the videos.
-- Read them again, and email me questions you have. Book my [office hours](https://calendar.google.com/calendar/u/0/selfsched?sstoken=UUE0X1AyMVlCNnpyfGRlZmF1bHR8ZTBmYjk2MTcyMjZkZmUwMzhjYTllN2IxMzlkMmQ4MTU), too.
-- Use D3 to turn the dataset you are currently collecting (started after Week 2 class) into shapes.
-- Do not worry about visualizing the data effectively, but be creative in the aesthetics.
-- create any shapes from it and use data functions in at least one spot in such a way that the value of your data point affects the shape you created using D3.
-- push your work to your repo and submit a link to the [Class Wiki](https://github.com/leoneckert/critical-data-and-visualization-spring-2021/wiki)
+- Data
+  - submit a JSON file together with your Coding Exercise that demonstrates the start of your data collection for the Data Zine
+- Code
+  - Watch the videos from [the lab](../labs/lab2) and read the notes.
+  - Read them again, and email me questions you have. Book my [office hours](https://calendar.google.com/calendar/u/0/selfsched?sstoken=UUE0X1AyMVlCNnpyfGRlZmF1bHR8ZTBmYjk2MTcyMjZkZmUwMzhjYTllN2IxMzlkMmQ4MTU), too, if anything is unclear (it's totally normal!).
+  - Use D3 to turn the dataset you are currently collecting (for the Data Zine) into shapes.
+  - Do not worry about visualizing the data effectively, but be creative in the aesthetics.
+  - create any shapes from it and use data functions (video 3) in at least one spot in such a way that the value of your data point affects the shape you created using D3.
+  - push your work to your repo and submit a link to the [Class Wiki](https://github.com/leoneckert/critical-data-and-visualization-spring-2021/wiki)
 
 
 
