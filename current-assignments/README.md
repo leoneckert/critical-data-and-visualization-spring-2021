@@ -44,14 +44,17 @@
 
 
 
-##### 📖 Reading 1 (Data Intro)
+
+<!-- ##### 📖 Reading 1 (Data Intro)
 
 *Due Sunday(!), February 7, at noon:*
 
-- Find this Reading Assignment [here](../readings/reading1).
+- Find this Reading Assignment [here](../readings/reading1). -->
 
 
-##### 💡 Data Zine Subject Proposal
+
+
+<!-- ##### 💡 Data Zine Subject Proposal
 
 *Due Monday, February 8:*
 
@@ -59,7 +62,9 @@
 - In the next class, be prepared to introduce your subject.
 - Remember that ultimately, your dataset should have at least 20 individual data points, each with at least four features.
 - The phenomenon you pick must be something that occurs over time.
-- It is highly recommended to consider a phenomenon that has nothing to do with technology and that you find poetic.
+- It is highly recommended to consider a phenomenon that has nothing to do with technology and that you find poetic. -->
+
+
 
 
 
@@ -81,11 +86,11 @@
 
 
 
-<!-- ##### 📖 Reading 2 (Data Bias)
+##### 📖 Reading 2 (Data Bias)
 
 *Due Sunday(!), February 21, at noon:*
 
-- Find this Reading Assignment [here](../readings/reading2). -->
+- Find this Reading Assignment [here](../readings/reading2).
 
 
 

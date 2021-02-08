@@ -120,7 +120,7 @@ So, what exactly is data? How is value extracted from it? And why should we care
 
 - Data Type [Exercise](https://docs.google.com/spreadsheets/d/1tN3ky-FkUdI4t1f-GQTB4FIq05NSTX4z5U0iDnwGDVI/edit?usp=sharing) (35m)
 - ([slides](https://docs.google.com/presentation/d/1HePclT33PZk2EymitL2-4JX7vAscwKyk-9owhUcIR1A/edit?usp=sharing))
-- Present [Dear Data Visualizations](https://docs.google.com/spreadsheets/d/1PTTTbewj2zsqgztBhNZKB2ipunpI7jiok2tmm_kfhXE/edit#gid=0) (20m)
+- Present [Dear Data Visualizations](https://docs.google.com/spreadsheets/d/1PTTTbewj2zsqgztBhNZKB2ipunpI7jiok2tmm_kfhXE/edit#gid=0) I (20m)
 - Announce [Data Zine Project](projects/data-zine) (20m)
 
 
@@ -183,15 +183,18 @@ So, what exactly is data? How is value extracted from it? And why should we care
 
 
 <!-- # Week 3 -->
-<!-- ![week](assets/weeks/week3.png)
+![week](assets/weeks/week3.png)
 
 ![mon](assets/days/amon-red.png)
 
 ##### February 8
 ##### `Human / Data`
-*due today: Reading 1*
+*due today: Reading 1, Data Zine Subject Proposal*
 
-[content]
+- Discuss [Reading 1](readings/reading1) (40m)
+- Present [Dear Data Visualizations](https://docs.google.com/spreadsheets/d/1PTTTbewj2zsqgztBhNZKB2ipunpI7jiok2tmm_kfhXE/edit#gid=0) II (15m)
+- Share Plans for Data Zine (20m)
+
 
 ###### Assignments
 
@@ -199,7 +202,7 @@ So, what exactly is data? How is value extracted from it? And why should we care
 
 🔗 [Assignment Details](current-assignments)
 
-###### For your interest (optional): -->
+###### For your interest (optional):
 
 
 
