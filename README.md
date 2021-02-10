@@ -13,6 +13,8 @@ Welcome! This page will be filled with material and links throughout the semeste
 #### Quick Links
 
 - [current assignments](current-assignments/README.md)
+- [Useful Resources](other/resources)
+- [Grading Breakdown](https://docs.google.com/spreadsheets/d/1xZ4tSFMJCH11FTI8_gmNv8zuGVfems1oiRgbb6Du3Ic/edit?usp=sharing)
 - Problems with Zoom or other things? >> [NYU's Digital Teaching & Learning Toolkits](https://wp.nyu.edu/toolkits/)
 
 #### Course Description
@@ -25,8 +27,8 @@ So, what exactly is data? How is value extracted from it? And why should we care
 
 #### Content
 - [Week 1](#january-25) - `cdv[0] = 'overview'`
-- ⛳️ [Week 2](#February-1) - Data Types / Visualizations
-- Week 3 - Human / Data
+- [Week 2](#February-1) - Data Types / Visualizations
+- ⛳️ [Week 3](#February-8) - Human / Data
 - **SPRING FESTIVAL**
 - Week 4 - Human / Bias
 - Week 5 - Surveillance Capitalism / Check-In
@@ -208,18 +210,29 @@ So, what exactly is data? How is value extracted from it? And why should we care
 
 
 
-<!-- --- -->
+---
 
 
 
 
-<!-- ![wed](assets/days/wed-green.png)
+![wed](assets/days/wed-green.png)
 
 ##### February 10
 ##### `Meet D3js II`
 *due today: Coding Exercise 3*
 
-[content]
+- House Keeping:
+  - please add your Data Zine description to this [Sheet](https://docs.google.com/spreadsheets/d/1Ms8Ov109hRn2spG1lVXUMSuEHlCPChz8Dmw4ShhD6BY/edit?usp=sharing)
+  - a survey about pre-recorded lab videos, [here](https://forms.gle/zFsprpZJx4kNJpu29)
+  - grading breakdown [here](https://docs.google.com/spreadsheets/d/1xZ4tSFMJCH11FTI8_gmNv8zuGVfems1oiRgbb6Du3Ic/edit?usp=sharing)
+- The Lab:
+  - Check out your [homework](https://github.com/leoneckert/critical-data-and-visualization-spring-2021/wiki/Coding-Exercise-3-(week-3))
+  - Binding Data to Elements: Various Scenarios
+  - Incoming Data: the enter-selection in detail
+  - Tips & Tricks
+  - Videos on Classes and Groups in D3
+
+[Details](labs/lab3) of today's Lab.
 
 ###### Assignments
 
@@ -228,7 +241,7 @@ So, what exactly is data? How is value extracted from it? And why should we care
 
 🔗 [Assignment Details](current-assignments)
 
-###### For your interest (optional): -->
+###### For your interest (optional):
 
 
 

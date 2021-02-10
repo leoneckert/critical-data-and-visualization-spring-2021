@@ -69,7 +69,7 @@
 
 
 
-##### 👾 Coding Exercise 3 (Data-binding, JSON)
+<!-- ##### 👾 Coding Exercise 3 (Data-binding, JSON)
 
 *Due Wednesday, February 10:*
 
@@ -81,7 +81,7 @@
   - Use D3 to turn the dataset you are currently collecting (for the Data Zine) into shapes.
   - Do not worry about visualizing the data effectively, but be creative in the aesthetics.
   - create any shapes from it and use data functions (video 3) in at least one spot in such a way that the value of your data point affects the shape you created using D3.
-  - push your work to your repo and submit a link to the [Class Wiki](https://github.com/leoneckert/critical-data-and-visualization-spring-2021/wiki)
+  - push your work to your repo and submit a link to the [Class Wiki](https://github.com/leoneckert/critical-data-and-visualization-spring-2021/wiki) -->
 
 
 
@@ -96,20 +96,26 @@
 
 
 
-<!-- ##### 👾 Coding Exercise 4 (Grouping Elements)
+##### 👾 Coding Exercise 4 (Grouping Elements)
 
 *Due Wednesday, February 24:*
 
-- _ -->
+- Visualize your data making use of group (<g>) elements
+- Your data points have multiple categories (names, values, labels etc.). Make each category affect a different aspect of a visual representation in a group.
+- Take [this example](https://drive.google.com/file/d/1Qmnp0l9GegI6pG968rzsbm81SUIkcVPD/view?usp=sharing) by Giorgia Lupi. Each shape is a group of other shapes with attributes that represent different aspects of the data. She describes her logic on the back of the postcard. Create your own such logic for your data, and group shapes with different attributes into svg group elements.
+- This is an exercise, not a project in its own right. You can work on your Data Zine alongside this exercise.
+- Since this exercise, include rather more elements (for practice) in each group than (for stylistic choice) few.
 
 
 
 
-<!-- ##### ✂️ Data Zine Paper Prototype
+##### ✂️ Data Zine Paper Prototype
 
 *Due Wednesday, February 24:*
 
-- _ -->
+- Print out [the template](https://drive.google.com/file/d/1cTKq3KGXeicckOdh-PQVKqRxWS6HN7Um/view?usp=sharing) on A3-sized paper, or [this template](https://drive.google.com/file/d/1HVQckA9IcByhOhiY3FU6FDwN1s7GXeQH/view?usp=sharing) on A4-size paper.
+- Sketch out where you are planning to put which information (graphic and descriptive text). Remember you can create more than one visualization to illustrate different aspects of your data set.
+- Scan your prototype, push it to your repository and add a link to the [Class Wiki](https://github.com/leoneckert/critical-data-and-visualization-spring-2021/wiki).
 
 
 
