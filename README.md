@@ -28,9 +28,9 @@ So, what exactly is data? How is value extracted from it? And why should we care
 #### Content
 - [Week 1](#january-25) - `cdv[0] = 'overview'`
 - [Week 2](#February-1) - Data Types / Visualizations
-- ⛳️ [Week 3](#February-8) - Human / Data
+- [Week 3](#February-8) - Human / Data
 - **SPRING FESTIVAL**
-- Week 4 - Human / Bias
+- ⛳️ [Week 4](#February-22) - Human / Bias
 - Week 5 - Surveillance Capitalism / Check-In
 - Week 6 - Data Zine Project Presentations 🎉
 - Week 7 - Prediction / Uncertainty
@@ -247,9 +247,9 @@ So, what exactly is data? How is value extracted from it? And why should we care
 
 
 
-<!-- # Week 4 -->
+# Week 4
 
-<!-- ![week](assets/weeks/week4.png)
+![week](assets/weeks/week4.png)
 
 ![mon](assets/days/amon-red.png)
 
@@ -257,11 +257,79 @@ So, what exactly is data? How is value extracted from it? And why should we care
 ##### `Human / Bias`
 *due today: Reading 2*
 
-[content]
+- Welcome Back!
+- Class Exercise ([Slides](https://docs.google.com/presentation/d/1QTz5HyTUGwRh-FG4s7EUh8O8-nvN7_pK4SNMk6N0VWk/edit?usp=sharing))
+  - Intro (5m)
+  - Working Time (25m)
+  - Presentation (30)
+  - Vote and Discuss (15m)
+
+
+- today's exercise was originally designed by [Mimi Onuoha](https://mimionuoha.com/) and [Mother Cyborg (Diana Nucera)](http://www.mothercyborg.com/). It is published in their zine "[A People's Guide to AI (2018)](https://mimionuoha.com/a-peoples-guide-to-ai)". If you are curious to take a closer look, I can borrow you a copy :)
+
 
 ###### Assignments
 
 - 📖 Reading 3 (Surveillance Capitalism) *(due 2/28)*
+
+🔗 [Assignment Details](current-assignments)
+
+###### For your interest (optional):
+
+
+
+
+
+<!-- --- -->
+
+
+
+
+<!-- ![wed](assets/days/wed-green.png)
+
+##### February 24
+##### `Intro to Scales`
+*due today: Coding Exercise 4, Data Zine Paper Prototype, Tufte Reading*
+
+[content]
+
+###### Assignments
+
+- 🏗 Finished version of Data Zine *(due 3/3)*
+
+
+🔗 [Assignment Details](current-assignments)
+
+###### For your interest (optional): -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- # Week 5
+
+![week](assets/weeks/week5.png)
+
+![mon](assets/days/amon-red.png)
+
+##### March 1
+##### `Surveillance Capitalism / Check-In`
+*due today: Reading 3*
+
+- 1-on-1 meetings
+
+
+###### Assignments
+
+- 📖 Reading 4 (Prediction & Uncertainty) *(due 3/14)*
 
 🔗 [Assignment Details](current-assignments)
 
@@ -278,16 +346,254 @@ So, what exactly is data? How is value extracted from it? And why should we care
 
 <!-- ![wed](assets/days/wed-green.png)
 
-##### February 24
-##### `Intro to Scales`
-*due today: Coding Exercise 4, Data Zine Paper Prototype*
+##### March 3
+##### `Review / Axis / Custom SVG shapes`
+*due today: (Almost) Finished version of Data Zine*
+
+[content]
+
+###### Assignments
+🔗 [Assignment Details](current-assignments)
+
+###### For your interest (optional): -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- # Week 6
+
+![week](assets/weeks/week6.png)
+
+![mon](assets/days/amon-red.png)
+
+##### March 8
+##### `Data Zine Presentations`
+*due today: Data Zine*
+
+- [content]
+
+
+###### Assignments
+
+- 🤹 Two Data Stories  *(due 3/15)*
+
+🔗 [Assignment Details](current-assignments)
+
+###### For your interest (optional): -->
+
+
+
+
+
+<!-- --- -->
+
+
+
+
+<!-- ![wed](assets/days/wed-green.png)
+
+##### March 10
+##### `Time, Updates & Transitions`
+*due today: *
+
+- [content]
+
+###### Assignments
+
+- 👾 Coding Exercise 5 (Roesling's Graph) *(due 3/17)*
+- 🍱 Three Good Datasets *(due 3/17)*
+
+🔗 [Assignment Details](current-assignments)
+
+###### For your interest (optional): -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- # Week 7
+
+![week](assets/weeks/week7.png)
+
+![mon](assets/days/amon-red.png)
+
+##### March 15
+##### `Prediction & Uncertainty`
+*due today: Reading 4, Two Data Stories*
+
+- [content]
+
+
+###### Assignments
+
+- 🚀 5x20seconds: What's it all about?  *(due 3/22)*
+- 🗺 Data Story: Contextual Report *(due 4/12)*
+
+
+🔗 [Assignment Details](current-assignments)
+
+###### For your interest (optional): -->
+
+
+
+
+
+<!-- --- -->
+
+
+
+
+<!-- ![wed](assets/days/wed-green.png)
+
+##### March 17
+##### `Enter, Exit, Update`
+*due today: Coding Exercise 5, Three Good Datasets*
 
 [content]
 
 ###### Assignments
 
-- 🏗 Finished version of Data Zine *(due 3/3)*
+- 👾 Coding Exercise 6 (Transitions) *(due 3/24)*
 
+🔗 [Assignment Details](current-assignments)
+
+###### For your interest (optional): -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- # Week 8
+
+![week](assets/weeks/week8.png)
+
+![mon](assets/days/amon-red.png)
+
+##### March 22
+##### `5x20`
+*due today: 5x20seconds*
+
+- [content]
+
+
+###### Assignments
+
+- .
+
+🔗 [Assignment Details](current-assignments)
+
+###### For your interest (optional): -->
+
+
+
+
+
+<!-- --- -->
+
+
+
+
+<!-- ![wed](assets/days/wed-green.png)
+
+##### March 24
+##### `Generators, Components, Layouts`
+*due today: Coding Exercise 6*
+
+[content]
+
+###### Assignments
+
+- 👾 Coding Exercise 7 (Line Generators) *(due 3/31)*
+
+🔗 [Assignment Details](current-assignments)
+
+###### For your interest (optional): -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- # Week 9
+
+![week](assets/weeks/week9.png)
+
+![mon](assets/days/amon-red.png)
+
+##### March 29
+##### `Check-In`
+*due today:*
+
+- [content]
+
+
+###### Assignments
+
+- 📖 Reading 5 (Ethics) *(due 4/18)*
+
+🔗 [Assignment Details](current-assignments)
+
+###### For your interest (optional): -->
+
+
+
+
+
+<!-- --- -->
+
+
+
+
+<!-- ![wed](assets/days/wed-green.png)
+
+##### March 31
+##### `Maps`
+*due today: Coding Exercise 7*
+
+[content]
+
+###### Assignments
+
+- 👾 Coding Exercise 8 (Maps) *(due 4/21)*
 
 🔗 [Assignment Details](current-assignments)
 

@@ -132,11 +132,11 @@
 
 
 
-<!-- ##### 📖 Reading 3 (Surveillance Capitalism)
+##### 📖 Reading 3 (Surveillance Capitalism)
 
 *Due Sunday(!), Feb 28, at noon:*
 
-- Find this Reading Assignment [here](../readings/reading3). -->
+- Find this Reading Assignment [here](../readings/reading3).
 
 
 
@@ -155,3 +155,99 @@
 *Due Monday, Mar 8:*
 
 - Find this Project [here](../projects/data-zine).
+
+
+
+
+
+
+
+
+
+<!-- ##### 📖 Reading 4 (Prediction & Uncertainty)
+
+*Due Sunday(!), March 14, at noon:*
+
+- Find this Reading Assignment [here](../readings/reading4). -->
+
+
+
+
+
+<!-- ##### 🤹 Two Data Stories  
+
+*Due Monday, March 15:*
+- _ -->
+
+
+
+<!-- ##### 👾 Coding Exercise 5 (Roesling's Graph)
+
+*Due Wednesday, March 17:*
+-_ -->
+
+
+<!-- ##### 🍱 Three Good Datasets
+
+*Due Wednesday, March 17:*
+-_ -->
+
+
+
+
+
+
+<!-- ##### 🚀 5x20seconds: What's it all about?
+*Due Monday, March 22:*
+- _ -->
+
+
+
+
+
+
+
+<!-- ##### 👾 Coding Exercise 6 (Mastering Transitions)
+
+*Due Wednesday, March 24:*
+-_ -->
+
+
+
+
+
+
+
+<!-- ##### 👾 Coding Exercise 7 (Line Generators)
+
+*Due Wednesday, March 31:*
+
+
+
+
+
+
+##### 🗺 Data Story: Contextual Report
+*Due Monday, April 12:*
+- _ -->
+
+
+
+
+
+
+
+<!-- ##### 📖 Reading 5 (Ethics)
+
+*Due Sunday(!), April 18, at noon:*
+
+- Find this Reading Assignment [here](../readings/reading5). -->
+
+
+
+
+
+
+<!-- ##### 👾 Coding Exercise 8 (Maps)
+
+*Due Wednesday, April 21:* -->
