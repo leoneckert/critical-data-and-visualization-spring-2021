@@ -258,7 +258,7 @@ So, what exactly is data? How is value extracted from it? And why should we care
 *due today: Reading 2*
 
 - Welcome Back!
-- Class Exercise ([Slides](https://docs.google.com/presentation/d/1QTz5HyTUGwRh-FG4s7EUh8O8-nvN7_pK4SNMk6N0VWk/edit?usp=sharing))
+- Class Exercise ([Slides](https://docs.google.com/presentation/d/1QTz5HyTUGwRh-FG4s7EUh8O8-nvN7_pK4SNMk6N0VWk/edit?usp=sharing), [Working Sheets](https://docs.google.com/spreadsheets/d/1st2OzjfGh3_NOhZlU2jiHVLyTW68q0cj8NcN7LvsvSM/edit?usp=sharing) )
   - Intro (5m)
   - Working Time (25m)
   - Presentation (30)
