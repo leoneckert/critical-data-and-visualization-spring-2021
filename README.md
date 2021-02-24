@@ -280,18 +280,27 @@ So, what exactly is data? How is value extracted from it? And why should we care
 
 
 
-<!-- --- -->
+---
 
 
 
 
-<!-- ![wed](assets/days/wed-green.png)
+![wed](assets/days/wed-green.png)
 
 ##### February 24
 ##### `Intro to Scales`
 *due today: Coding Exercise 4, Data Zine Paper Prototype, Tufte Reading*
 
-[content]
+- Questions
+- Do people feel comfortable about JSON?
+- Introducing: [Data Zine Coding Template](projects/data-zine/coding-template.zip) (10m)
+- The Lab:
+  - Check out your [coding exercises](https://github.com/leoneckert/critical-data-and-visualization-spring-2021/wiki/Coding-Exercise-4-(week-4))
+  - intro to scales (with pictures) ([slides](https://docs.google.com/presentation/d/1mL81BbzNZWUPyvwf1Uil15Q9x6axwplP7MCXSGrH558/edit?usp=sharing))
+  - live coding demo: high buildings
+  - live coding demo: dead celebrities
+
+[Details](labs/lab4) of today's Lab.
 
 ###### Assignments
 
@@ -300,7 +309,7 @@ So, what exactly is data? How is value extracted from it? And why should we care
 
 🔗 [Assignment Details](current-assignments)
 
-###### For your interest (optional): -->
+###### For your interest (optional):
 
 
 

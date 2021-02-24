@@ -86,17 +86,17 @@
 
 
 
-##### 📖 Reading 2 (Data Bias)
+<!-- ##### 📖 Reading 2 (Data Bias)
 
 *Due Sunday(!), February 21, at noon:*
 
-- Find this Reading Assignment [here](../readings/reading2).
+- Find this Reading Assignment [here](../readings/reading2). -->
 
 
 
 
 
-##### 👾 Coding Exercise 4 (Grouping Elements)
+<!-- ##### 👾 Coding Exercise 4 (Grouping Elements)
 
 *Due Wednesday, February 24:*
 
@@ -104,12 +104,12 @@
 - Your data points have multiple categories (names, values, labels etc.). Make each category affect a different aspect of a visual representation in a group.
 - Take [this example](https://drive.google.com/file/d/1Qmnp0l9GegI6pG968rzsbm81SUIkcVPD/view?usp=sharing) by Giorgia Lupi. Each shape is a group of other shapes with attributes that represent different aspects of the data. She describes her logic on the back of the postcard. Create your own such logic for your data, and group shapes with different attributes into svg group elements.
 - This is an exercise, not a project in its own right. You can work on your Data Zine alongside this exercise.
-- Since this exercise, include rather more elements (for practice) in each group than (for stylistic choice) few.
+- Since this exercise, include rather more elements (for practice) in each group than (for stylistic choice) few. -->
 
 
 
 
-##### ✂️ Data Zine Paper Prototype
+<!-- ##### ✂️ Data Zine Paper Prototype
 
 *Due Wednesday, February 24:*
 
@@ -127,7 +127,7 @@
 - "Graphical Excellence"
 - "Graphical Integrity"
 - "Sources of Graphical Integrity and Sophistication"
-  - I highly recommend getting a physical copy from the library. A [digital version](https://drive.google.com/file/d/1z-dc0YQbjw9V-zSbGmswiCdIlLi7PQ6f/view?usp=sharing) can be found here.
+  - I highly recommend getting a physical copy from the library. A [digital version](https://drive.google.com/file/d/1z-dc0YQbjw9V-zSbGmswiCdIlLi7PQ6f/view?usp=sharing) can be found here. -->
 
 
 
@@ -141,12 +141,13 @@
 
 
 
-<!-- ##### 🏗Finished version of Data Zine
+##### 🏗 Finished version of Data Zine
 
 *Due Wednesday, March 3:*
 
-- _ -->
-
+- Finish your Data Zine using the [coding template](../projects/data-zine/coding-template.zip).
+- Take notes of problems and difficulties you are running into.
+- Make a copy of the project titled "datazine-WIP" ("WIP = Work In Progress") and post it the [Class Wiki](https://github.com/leoneckert/critical-data-and-visualization-spring-2021/wiki).
 
 
 
