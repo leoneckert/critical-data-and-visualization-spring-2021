@@ -6,7 +6,7 @@
 - live coding demo: dead celebrities
 
 ### live coding demo: high buildings
-- [Exercise Files](lab4-linear-scale)
+- [Exercise Files](lab4-linear-scale.zip)
 - [Video 1](https://drive.google.com/file/d/1FsWXKaYx7hIgorfcPudtK_DPQkSs44o8/view?usp=sharing)
 - [Video 2](https://drive.google.com/file/d/19TpfYK3NThC756hMLAoGvU_VeORqXg8H/view?usp=sharing)
 
@@ -16,7 +16,7 @@
 
 
 ### live coding demo: dead celebrities
-- [Exercise Files](lab4-time-scale)
+- [Exercise Files](lab4-time-scale.zip)
 - [Video 3](https://drive.google.com/file/d/1rpgu6S7-pEacLTbczigxoEj6QHVzoU82/view?usp=sharing)
 ![](assets/time-scale.png)
 
