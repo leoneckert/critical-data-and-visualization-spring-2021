@@ -132,11 +132,11 @@
 
 
 
-##### 📖 Reading 3 (Surveillance Capitalism)
+<!-- ##### 📖 Reading 3 (Surveillance Capitalism)
 
 *Due Sunday(!), Feb 28, at noon:*
 
-- Find this Reading Assignment [here](../readings/reading3).
+- Find this Reading Assignment [here](../readings/reading3). -->
 
 
 
@@ -165,11 +165,11 @@
 
 
 
-<!-- ##### 📖 Reading 4 (Prediction & Uncertainty)
+##### 📖 Reading 4 (Prediction & Uncertainty)
 
 *Due Sunday(!), March 14, at noon:*
 
-- Find this Reading Assignment [here](../readings/reading4). -->
+- Find this Reading Assignment [here](../readings/reading4).
 
 
 
