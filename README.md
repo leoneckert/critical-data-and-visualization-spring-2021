@@ -379,7 +379,7 @@ So, what exactly is data? How is value extracted from it? And why should we care
 
 - Check out your [Work In Progress](https://github.com/leoneckert/critical-data-and-visualization-spring-2021/wiki/Work-In-Progress-Version-of-Data-Zine-(week-5))
 - Lab
-  - Question Time
+  - Question Time ([sheet](https://docs.google.com/spreadsheets/d/1O5MJox90bXwSG15Ca61IafXhw3L-J9WTR_pCfPmkiR8/edit?usp=sharing))
   - Live-Coding Time
   - Videos reviewing learned concepts and introducing Axis and Custom Shapes
 
