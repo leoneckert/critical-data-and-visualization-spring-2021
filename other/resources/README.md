@@ -43,6 +43,7 @@
 - [https://projects.christianlaesser.com/travel-visa-inequality/](https://projects.christianlaesser.com/travel-visa-inequality/) <- all the data was scraped from Wikipedia
 - [A visual introduction to machine learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
 - [Data Detox Kit by Tactical Tech](https://datadetoxkit.org/en/home)
+- [Text on a path](https://blockbuilder.org/ChandrakantThakkarDigiCorp/c0a2df4928505c9d6a6d42daf6466130)
 
 ### Infos
 

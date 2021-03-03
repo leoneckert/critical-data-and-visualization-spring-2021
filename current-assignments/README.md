@@ -141,14 +141,14 @@
 
 
 
-##### 🏗 Finished version of Data Zine
+<!-- ##### 🏗 Finished version of Data Zine
 
 *Due Wednesday, March 3:*
 
 - Finish your Data Zine using the [coding template](../projects/data-zine/coding-template.zip).
 - Take notes of problems and difficulties you are running into.
 - Make a copy of the project titled "datazine-WIP" ("WIP = Work In Progress") and post it the [Class Wiki](https://github.com/leoneckert/critical-data-and-visualization-spring-2021/wiki).
-
+ -->
 
 
 ##### 🖼 Data Zine
@@ -156,11 +156,6 @@
 *Due Monday, Mar 8:*
 
 - Find this Project [here](../projects/data-zine).
-
-
-
-
-
 
 
 

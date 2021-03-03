@@ -204,7 +204,7 @@ So, what exactly is data? How is value extracted from it? And why should we care
 
 🔗 [Assignment Details](current-assignments)
 
-###### For your interest (optional):
+<!-- ###### For your interest (optional): -->
 
 
 
@@ -241,7 +241,7 @@ So, what exactly is data? How is value extracted from it? And why should we care
 
 🔗 [Assignment Details](current-assignments)
 
-###### For your interest (optional):
+<!-- ###### For your interest (optional): -->
 
 
 
@@ -274,7 +274,7 @@ So, what exactly is data? How is value extracted from it? And why should we care
 
 🔗 [Assignment Details](current-assignments)
 
-###### For your interest (optional):
+<!-- ###### For your interest (optional): -->
 
 
 
@@ -309,7 +309,7 @@ So, what exactly is data? How is value extracted from it? And why should we care
 
 🔗 [Assignment Details](current-assignments)
 
-###### For your interest (optional):
+<!-- ###### For your interest (optional): -->
 
 
 
@@ -338,20 +338,20 @@ So, what exactly is data? How is value extracted from it? And why should we care
   - 5 minutes each. Please be prepared with material you want to show me.
   - Work on our project in the remaining class time.
   - In this order:
-    - [ ] Tina
-    - [ ] Shengli
-    - [ ] Clover
-    - [ ] Winny
-    - [ ] Alexis
-    - [ ] Linda
-    - [ ] Tom
-    - [ ] Zoe
-    - [ ] Jyoti
-    - [ ] Alex
-    - [ ] Layla
-    - [ ] Adrien
-    - [ ] Sarah
-    - [ ] Alan
+    - [X] Tina
+    - [X] Shengli
+    - [X] Clover
+    - [X] Winny
+    - [X] Alexis
+    - [X] Linda
+    - [X] Tom
+    - [X] Zoe
+    - [X] Jyoti
+    - [X] Alex
+    - [X] Layla
+    - [X] Adrien
+    - [X] Sarah
+    - [X] Alan
 
 
 ###### Assignments
@@ -360,29 +360,35 @@ So, what exactly is data? How is value extracted from it? And why should we care
 
 🔗 [Assignment Details](current-assignments)
 
-###### For your interest (optional):
+<!-- ###### For your interest (optional): -->
 
 
 
 
 
-<!-- --- -->
+---
 
 
 
 
-<!-- ![wed](assets/days/wed-green.png)
+![wed](assets/days/wed-green.png)
 
 ##### March 3
 ##### `Review / Axis / Custom SVG shapes`
 *due today: (Almost) Finished version of Data Zine*
 
-[content]
+- Check out your [Work In Progress](https://github.com/leoneckert/critical-data-and-visualization-spring-2021/wiki/Work-In-Progress-Version-of-Data-Zine-(week-5))
+- Lab
+  - Question Time
+  - Live-Coding Time
+  - Videos reviewing learned concepts and introducing Axis and Custom Shapes
 
-###### Assignments
-🔗 [Assignment Details](current-assignments)
+[Details](labs/lab5) of today's Lab.
 
-###### For your interest (optional): -->
+<!-- ###### Assignments
+🔗 [Assignment Details](current-assignments) -->
+
+<!-- ###### For your interest (optional): -->
 
 
 
