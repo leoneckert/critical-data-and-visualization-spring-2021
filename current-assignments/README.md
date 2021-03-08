@@ -176,8 +176,7 @@
 - Find two articles that tell a story with data and data visualization.
   - Supply links to them in a markdown file alongside 2-3 sentences explaining what they are about. Push the file and add a link to the [Class Wiki](https://github.com/leoneckert/critical-data-and-visualization-spring-2021/wiki).
   - Be prepared to explain what you enjoy about these articles and the way they use data / data visualization.
-  - finding your own sources is highly encouraged. Nevertheless, here are potential sources: nytimes, washingtonpost, fivethirtyeight, pudding.cool.
-
+  - finding your own sources is highly encouraged. Nevertheless, here are potential sources: [nytimes](https://www.nytimes.com/interactive/2020/12/30/us/2020-year-in-graphics.html), [washingtonpost](https://www.washingtonpost.com/graphics/2018/ns/best-graphics/), [fivethirtyeight](https://fivethirtyeight.com/), [pudding.cool](https://pudding.cool/).
 
 
 <!-- ##### 👾 Coding Exercise 5 (Roesling's Graph)
