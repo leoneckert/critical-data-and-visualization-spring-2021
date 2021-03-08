@@ -415,10 +415,10 @@ So, what exactly is data? How is value extracted from it? And why should we care
 - During the Presentations, **please help each other** by giving feedback, thoughts, ideas, inspiration in [this document](https://docs.google.com/document/d/1nsqtuA-rXT2j6TGQWAj2OEOgTpBQE1SDfLCTM-zORio/edit?usp=sharing).
 - [Link To Wiki](https://github.com/leoneckert/critical-data-and-visualization-spring-2021/wiki/Data-Zine-Project-(week-6))
 - Presentation Order:
-  - [ ] [Winny](https://winnyww.github.io/cdv-student/projects/datazine-template/cover.html)
+  - [ ] [Winny](https://winnyww.github.io/cdv-student/projects/datazine-template/cover.html) [video](https://youtu.be/3WkaMJvBYdY)
   - [ ] [Zoe](https://zoexiao0516.github.io/cdv-student/projects/data-zine/cover.html)
   - [ ] [Adrien](https://adrienven.github.io/cdv-student/projects/placeholder/Datazine/datazine-template/cover.html)
-  - [ ] [Sarah](https://sa4913.github.io/cdv-student/projects/FinalDataZine/cover.html)
+  - [ ] [Sarah](https://sa4913.github.io/cdv-student/projects/FinalDataZine/cover.html) [video](https://youtu.be/Ohg1YXomAwA)
   - [ ] [Alan](https://alanlechengchao.github.io/cdv-student/projects/data-zine/datazine/cover.html)
   - [ ] [Tina](https://tinazhang226.github.io/cdv-student/projects/datazine-FinalV/cover.html)
   - [ ] [Shengli](https://writecards.github.io/cdv-student/projects/data-zine/cover.html)
