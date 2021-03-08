@@ -402,7 +402,7 @@ So, what exactly is data? How is value extracted from it? And why should we care
 
 
 
-<!-- # Week 6
+# Week 6
 
 ![week](assets/weeks/week6.png)
 
@@ -412,7 +412,25 @@ So, what exactly is data? How is value extracted from it? And why should we care
 ##### `Data Zine Presentations`
 *due today: Data Zine*
 
-- [content]
+- During the Presentations, **please help each other** by giving feedback, thoughts, ideas, inspiration in [this document](https://docs.google.com/document/d/1nsqtuA-rXT2j6TGQWAj2OEOgTpBQE1SDfLCTM-zORio/edit?usp=sharing).
+- [Link To Wiki](https://github.com/leoneckert/critical-data-and-visualization-spring-2021/wiki/Data-Zine-Project-(week-6))
+- Presentation Order:
+  - [ ] [Winny](https://winnyww.github.io/cdv-student/projects/datazine-template/cover.html)
+  - [ ] [Zoe](https://zoexiao0516.github.io/cdv-student/projects/data-zine/cover.html)
+  - [ ] [Adrien](https://adrienven.github.io/cdv-student/projects/placeholder/Datazine/datazine-template/cover.html)
+  - [ ] [Sarah](https://sa4913.github.io/cdv-student/projects/FinalDataZine/cover.html)
+  - [ ] [Alan](https://alanlechengchao.github.io/cdv-student/projects/data-zine/datazine/cover.html)
+  - [ ] [Tina](https://tinazhang226.github.io/cdv-student/projects/datazine-FinalV/cover.html)
+  - [ ] [Shengli](https://writecards.github.io/cdv-student/projects/data-zine/cover.html)
+  - [ ] [Tom](https://tomzhu1024.github.io/cdv-student/projects/datazine/cover.html)
+  - [ ] [Linda](https://lindaaali.github.io/CDV-Linda/projects/placeholder/datazine-template/cover.html)
+  - [ ] [Jyoti](https://koapush.github.io/cdv-student/projects/zine-project/cover.html)
+  - [ ] [Alex](https://alexwang624.github.io/cdv-student/projects/data-zine/data-zine/cover.htmlE)
+  - [ ] [Alexis](https://qp274.github.io/cdv/projects/datazine/cover.html)
+  - [ ] [Layla](https://shenshenl.github.io/cdv-student/projects/datazineTemplate/)
+  - [ ] [Clover](https://clover0208.github.io/cdv-student/projects/placeholder/datazine-template/cover.html)
+
+
 
 
 ###### Assignments
@@ -421,7 +439,7 @@ So, what exactly is data? How is value extracted from it? And why should we care
 
 🔗 [Assignment Details](current-assignments)
 
-###### For your interest (optional): -->
+<!-- ###### For your interest (optional): -->
 
 
 
