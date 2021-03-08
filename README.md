@@ -31,8 +31,8 @@ So, what exactly is data? How is value extracted from it? And why should we care
 - [Week 3](#February-8) - Human / Data
 - **SPRING FESTIVAL**
 - [Week 4](#February-22) - Human / Bias
-- ⛳️ [Week 5](#March-1) - Surveillance Capitalism / Check-In
-- Week 6 - Data Zine Project Presentations 🎉
+- [Week 5](#March-1) - Surveillance Capitalism / Check-In
+- ⛳️ [Week 6](#March-8) - Data Zine Project Presentations 🎉
 - Week 7 - Prediction / Uncertainty
 - Week 8 - 5x20
 - Week 9 - Check-In
@@ -445,27 +445,30 @@ So, what exactly is data? How is value extracted from it? And why should we care
 
 
 
-<!-- --- -->
+---
 
 
 
 
-<!-- ![wed](assets/days/wed-green.png)
+![wed](assets/days/wed-green.png)
 
 ##### March 10
 ##### `Time, Updates & Transitions`
-*due today: *
+<!-- *due today: * -->
 
-- [content]
+- `Enter, Update, Exit, Transitions`, learned in four parts.
+
+[Details](labs/lab6) of today's Lab.
 
 ###### Assignments
 
-- 👾 Coding Exercise 5 (Roesling's Graph) *(due 3/17)*
-- 🍱 Three Good Datasets *(due 3/17)*
+- shown in class
+<!-- - 👾 Coding Exercise 5 (Roesling's Graph) *(due 3/17)* -->
+
 
 🔗 [Assignment Details](current-assignments)
 
-###### For your interest (optional): -->
+<!-- ###### For your interest (optional): -->
 
 
 
@@ -500,6 +503,7 @@ So, what exactly is data? How is value extracted from it? And why should we care
 
 ###### Assignments
 
+- 🍱 Three Good Datasets *(due 3/17)*
 - 🚀 5x20seconds: What's it all about?  *(due 3/22)*
 - 🗺 Data Story: Contextual Report *(due 4/12)*
 
