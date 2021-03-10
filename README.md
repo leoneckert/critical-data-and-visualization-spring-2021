@@ -462,8 +462,8 @@ So, what exactly is data? How is value extracted from it? And why should we care
 
 ###### Assignments
 
-- shown in class
-<!-- - 👾 Coding Exercise 5 (Roesling's Graph) *(due 3/17)* -->
+<!-- - shown in class -->
+- 👾 Coding Exercise 5 (Roesling's Graph) *(due 3/17)*
 
 
 🔗 [Assignment Details](current-assignments)
