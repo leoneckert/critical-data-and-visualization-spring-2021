@@ -179,10 +179,25 @@
   - finding your own sources is highly encouraged. Nevertheless, here are potential sources: [nytimes](https://www.nytimes.com/interactive/2020/12/30/us/2020-year-in-graphics.html), [washingtonpost](https://www.washingtonpost.com/graphics/2018/ns/best-graphics/), [fivethirtyeight](https://fivethirtyeight.com/), [pudding.cool](https://pudding.cool/).
 
 
-<!-- ##### 👾 Coding Exercise 5 (Roesling's Graph)
+##### 👾 Coding Exercise 5 (Roesling's Graph)
 
 *Due Wednesday, March 17:*
--_ -->
+- watch the first 5 minutes of [this video](https://www.ted.com/talks/hans_rosling_the_best_stats_you_ve_ever_seen?language=en).
+- this weeks assignment is to rebuild the visualization from the video.
+- download the [Exercise Code](../labs/lab6/rosling-start.zip) first.
+- study [this highlevel overview](../labs/lab6/assets/rosling-start-explained.jpg) of what you will find in the code.
+- Apply the learning from [Lab 6]((../labs/lab6) to visualize the data dynamically.
+  - You will mostly be working in section "C" of the code (as labelled in screenshot below).
+  - section A is also good to study because you should use the scales for datapoints x postition, y position and radius (if you do circles).
+  - the `drawViz` function (section C) is being called every second. Inside it, you can use the array `currentYearData` - at every function call it carries a new set of data (of that current year).
+  - you will need to:
+    - bring the datapoints onto the page.
+    - define what should happen with **entering** elements
+    - define what should happen with **exiting** elements
+- your result may look like [this](../labs/lab6/assets/rosling-result.gif) - but do feel free to style things differently and be creative in your design
+- push your work to your repo and submit a link to the [Class Wiki](https://github.com/leoneckert/critical-data-and-visualization-spring-2021/wiki) 
+
+
 
 
 <!-- ##### 🍱 Three Good Datasets
