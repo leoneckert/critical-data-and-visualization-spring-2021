@@ -1,4 +1,4 @@
-# Reading 3 (Surveillance Capitalism)
+# Reading 4 (Prediction & Uncertainty)
 
 #### Material
 ##### Read
