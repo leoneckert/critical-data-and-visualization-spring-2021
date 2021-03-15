@@ -32,8 +32,8 @@ So, what exactly is data? How is value extracted from it? And why should we care
 - **SPRING FESTIVAL**
 - [Week 4](#February-22) - Human / Bias
 - [Week 5](#March-1) - Surveillance Capitalism / Check-In
-- ⛳️ [Week 6](#March-8) - Data Zine Project Presentations 🎉
-- Week 7 - Prediction / Uncertainty
+- [Week 6](#March-8) - Data Zine Project Presentations 🎉
+- ⛳️ [Week 7](#March-15) - Prediction / Uncertainty
 - Week 8 - 5x20
 - Week 9 - Check-In
 - **SPRING BREAK**
@@ -488,7 +488,7 @@ So, what exactly is data? How is value extracted from it? And why should we care
 
 
 
-<!-- # Week 7
+# Week 7
 
 ![week](assets/weeks/week7.png)
 
@@ -498,22 +498,27 @@ So, what exactly is data? How is value extracted from it? And why should we care
 ##### `Prediction & Uncertainty`
 *due today: Reading 4, Two Data Stories*
 
-- [content]
+- Discussing the Reading / Predictive Policing (25m)
+- Present Found Data Stories (30m)
+- Announce: [Data Story Contextual Report](projects/data-story-and-contextual-report-presentation) (15m)
+  - Where are we on the [Roadmap](other/roadmap.pdf)?
+- Announce: 5x20seconds: What's it all about? (5m)
 
 
 ###### Assignments
 
 - 🍱 Three Good Datasets *(due 3/17)*
 - 🚀 5x20seconds: What's it all about?  *(due 3/22)*
-- 🗺 Data Story: Contextual Report *(due 4/12)*
+- 🗺 Data Story Contextual Report *(due 4/12)*
 
 
 🔗 [Assignment Details](current-assignments)
 
-###### For your interest (optional): -->
+###### For your interest (optional):
 
-
-
+- [*This Is Not Minority Report*](https://read.dukeupress.edu/books/book/2588/chapter/1386046/This-Is-Not-Minority-Report-Predictive-Policing) (2019) by R. Joshua Scannell
+- [*Dirty Data, Bad Predictions: How Civil Rights Violations Impact Police Data, Predictive Policing Systems, and Justice*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3333423) (2019), by Richardson, Schultz, Crawford
+- [Rabbit Hole](https://www.nytimes.com/column/rabbit-hole), Podcast by NY Times about Youtube's recommendation algorithm.
 
 
 <!-- --- -->

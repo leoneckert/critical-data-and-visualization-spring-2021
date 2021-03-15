@@ -160,23 +160,23 @@
 
 
 
-##### 📖 Reading 4 (Prediction & Uncertainty)
+<!-- ##### 📖 Reading 4 (Prediction & Uncertainty)
 
 *Due Sunday(!), March 14, at noon:*
 
-- Find this Reading Assignment [here](../readings/reading4).
+- Find this Reading Assignment [here](../readings/reading4). -->
 
 
 
 
 
-##### 🤹 Two Data Stories  
+<!-- ##### 🤹 Two Data Stories  
 
 *Due Monday, March 15:*
 - Find two articles that tell a story with data and data visualization.
   - Supply links to them in a markdown file alongside 2-3 sentences explaining what they are about. Push the file and add a link to the [Class Wiki](https://github.com/leoneckert/critical-data-and-visualization-spring-2021/wiki).
   - Be prepared to explain what you enjoy about these articles and the way they use data / data visualization.
-  - finding your own sources is highly encouraged. Nevertheless, here are potential sources: [nytimes](https://www.nytimes.com/interactive/2020/12/30/us/2020-year-in-graphics.html), [washingtonpost](https://www.washingtonpost.com/graphics/2018/ns/best-graphics/), [fivethirtyeight](https://fivethirtyeight.com/), [pudding.cool](https://pudding.cool/).
+  - finding your own sources is highly encouraged. Nevertheless, here are potential sources: [nytimes](https://www.nytimes.com/interactive/2020/12/30/us/2020-year-in-graphics.html), [washingtonpost](https://www.washingtonpost.com/graphics/2018/ns/best-graphics/), [fivethirtyeight](https://fivethirtyeight.com/), [pudding.cool](https://pudding.cool/). -->
 
 
 ##### 👾 Coding Exercise 5 (Roesling's Graph)
@@ -195,24 +195,38 @@
     - define what should happen with **entering** elements
     - define what should happen with **exiting** elements
 - your result may look like [this](../labs/lab6/assets/rosling-result.gif) - but do feel free to style things differently and be creative in your design
-- push your work to your repo and submit a link to the [Class Wiki](https://github.com/leoneckert/critical-data-and-visualization-spring-2021/wiki) 
+- push your work to your repo and submit a link to the [Class Wiki](https://github.com/leoneckert/critical-data-and-visualization-spring-2021/wiki)
 
 
 
 
-<!-- ##### 🍱 Three Good Datasets
+##### 🍱 Three Good Datasets
 
 *Due Wednesday, March 17:*
--_ -->
+-_
+- Take a deep dive into the datasets that you can find online.
+  - Find three different datasets that you like, write a short paragraph highlighting what they are about and how you could imagine building a project around them.
+  - collect those notes in markdown file, push to your repo and submit a link to the [Class Wiki](https://github.com/leoneckert/critical-data-and-visualization-spring-2021/wiki).
+  - Find some sources for datasets in our [Resources Page](https://github.com/leoneckert/critical-data-and-visualization-spring-2021/tree/main/other/resources).
+    - if you find other cool sources (both english and Chinese), consider [submitting them to a collection](https://docs.google.com/forms/d/e/1FAIpQLScfgFIBxAlW9Qz7t2jO6GViJ8y0utwFQBdEQORXuNMBkKTE8Q/viewform?usp=sf_link) I have started 😊
+    - Dedicate time to this research, find something that you feel connected to and inspired by --> you will spend about seven weeks dealing with the subject you choose, pick something exciting.
+    - What matters is your passion for the subject as well as the potential for creative visualizations of it.
+    - keep your mind open to the possibility of collecting or scraping an interesting dataset - if this is something of interest to you, I will assist and advise you.
 
 
 
 
 
 
-<!-- ##### 🚀 5x20seconds: What's it all about?
+##### 🚀 5x20seconds: What's it all about?
 *Due Monday, March 22:*
-- _ -->
+- Prepare a very short presentation about your favorite of the three subjects your pre-selected.
+- Each of you will present their topic in this format:
+  - 5 slides that can only contain images (no text!)
+  - 20 seconds per slide as you talk along explaining your interest and what you hope to make visible through your project
+  - practice your text and its timing (email it to me by Sunday if that helps)
+  - this is a VERY short presentation, do not invest more than maximum (!) 2 hours to prepare it.
+  - Add your 5 slides to this [Drive Folder](https://drive.google.com/drive/folders/1yDiWxc0uAIvAV7QSi8Dbip6lckfKkTME?usp=sharing) and add a link to the [Class Wiki](https://github.com/leoneckert/critical-data-and-visualization-spring-2021/wiki) by Sunday night, please.
 
 
 
@@ -233,7 +247,7 @@
 
 <!-- ##### 👾 Coding Exercise 7 (Line Generators)
 
-*Due Wednesday, March 31:*
+*Due Wednesday, March 31:* -->
 
 
 
@@ -242,7 +256,7 @@
 
 ##### 🗺 Data Story: Contextual Report
 *Due Monday, April 12:*
-- _ -->
+- Find this project [here](../projects/data-story-and-contextual-report-presentation).
 
 
 

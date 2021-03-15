@@ -75,5 +75,8 @@
 - [Open Knowdledge Foundation](https://okfn.org/network/)
 - [Epidemiological data of COVID-19 patients in South Korea](https://www.kaggle.com/kimjihoo/coronavirusdataset)
 - [github.com/awesomedata/awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets)
+- [http://www.199it.com/](http://www.199it.com/)
+  >"The website is in Chinese. There are data reports which cover all kinds, which include art, business, education, etc. The reports is not limited to the information within China. The reports already include graphs that made out of the collected data. But the dataset may not be free." -- note from kind contributor of this resource
 
-\*Thanks for contributing, Thomas, Phyllis, Eszter!
+
+\*Thanks for contributing, Thomas, Phyllis, Eszter, Lydia!
