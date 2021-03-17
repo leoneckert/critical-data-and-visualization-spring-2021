@@ -521,18 +521,21 @@ So, what exactly is data? How is value extracted from it? And why should we care
 - [Rabbit Hole](https://www.nytimes.com/column/rabbit-hole), Podcast by NY Times about Youtube's recommendation algorithm.
 
 
-<!-- --- -->
+---
 
 
 
 
-<!-- ![wed](assets/days/wed-green.png)
+![wed](assets/days/wed-green.png)
 
 ##### March 17
 ##### `Enter, Exit, Update`
 *due today: Coding Exercise 5, Three Good Datasets*
 
-[content]
+- Check out previous [Coding Exercise](https://github.com/leoneckert/critical-data-and-visualization-spring-2021/wiki/Coding-Exercise-5-(week-7))
+- Live Coding
+
+[Details](labs/lab7) of today's Lab.
 
 ###### Assignments
 
@@ -540,7 +543,7 @@ So, what exactly is data? How is value extracted from it? And why should we care
 
 🔗 [Assignment Details](current-assignments)
 
-###### For your interest (optional): -->
+
 
 
 

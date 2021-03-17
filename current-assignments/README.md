@@ -179,7 +179,7 @@
   - finding your own sources is highly encouraged. Nevertheless, here are potential sources: [nytimes](https://www.nytimes.com/interactive/2020/12/30/us/2020-year-in-graphics.html), [washingtonpost](https://www.washingtonpost.com/graphics/2018/ns/best-graphics/), [fivethirtyeight](https://fivethirtyeight.com/), [pudding.cool](https://pudding.cool/). -->
 
 
-##### 👾 Coding Exercise 5 (Roesling's Graph)
+<!-- ##### 👾 Coding Exercise 5 (Roesling's Graph)
 
 *Due Wednesday, March 17:*
 - watch the first 5 minutes of [this video](https://www.ted.com/talks/hans_rosling_the_best_stats_you_ve_ever_seen?language=en).
@@ -195,12 +195,12 @@
     - define what should happen with **entering** elements
     - define what should happen with **exiting** elements
 - your result may look like [this](../labs/lab6/assets/rosling-result.gif) - but do feel free to style things differently and be creative in your design
-- push your work to your repo and submit a link to the [Class Wiki](https://github.com/leoneckert/critical-data-and-visualization-spring-2021/wiki)
+- push your work to your repo and submit a link to the [Class Wiki](https://github.com/leoneckert/critical-data-and-visualization-spring-2021/wiki) -->
 
 
 
 
-##### 🍱 Three Good Datasets
+<!-- ##### 🍱 Three Good Datasets
 
 *Due Wednesday, March 17:*
 -_
@@ -209,9 +209,9 @@
   - collect those notes in markdown file, push to your repo and submit a link to the [Class Wiki](https://github.com/leoneckert/critical-data-and-visualization-spring-2021/wiki).
   - Find some sources for datasets in our [Resources Page](https://github.com/leoneckert/critical-data-and-visualization-spring-2021/tree/main/other/resources).
     - if you find other cool sources (both english and Chinese), consider [submitting them to a collection](https://docs.google.com/forms/d/e/1FAIpQLScfgFIBxAlW9Qz7t2jO6GViJ8y0utwFQBdEQORXuNMBkKTE8Q/viewform?usp=sf_link) I have started 😊
-    - Dedicate time to this research, find something that you feel connected to and inspired by --> you will spend about seven weeks dealing with the subject you choose, pick something exciting.
+    - Dedicate time to this research, find something that you feel connected to and inspired by -> you will spend about seven weeks dealing with the subject you choose, pick something exciting.
     - What matters is your passion for the subject as well as the potential for creative visualizations of it.
-    - keep your mind open to the possibility of collecting or scraping an interesting dataset - if this is something of interest to you, I will assist and advise you.
+    - keep your mind open to the possibility of collecting or scraping an interesting dataset - if this is something of interest to you, I will assist and advise you. -->
 
 
 
@@ -234,10 +234,17 @@
 
 
 
-<!-- ##### 👾 Coding Exercise 6 (Mastering Transitions)
+##### 👾 Coding Exercise 6 (Mastering Transitions)
 
 *Due Wednesday, March 24:*
--_ -->
+- Finish the Website we started in [Lab 7](../labs/lab7).
+  - You should be feeling comfortable with all the techniques used in it,
+  - Experiment a lot
+    - play with transitions, ease, delays, durations ([d3-transition](https://github.com/d3/d3-transition), [d3-ease](https://github.com/d3/d3-ease), [all ease functions](https://observablehq.com/@d3/easing-animations))
+    - make sure there is no glitch, no matter which button is pressed, things must transition smoothly to show the new data.
+    - surprise us on the last button!
+  - add your finished work to the [Class Wiki](https://github.com/leoneckert/critical-data-and-visualization-spring-2021/wiki)
+![image](../labs/lab7/assets/lab7.gif)
 
 
 
