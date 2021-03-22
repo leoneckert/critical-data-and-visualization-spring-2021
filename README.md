@@ -581,7 +581,7 @@ So, what exactly is data? How is value extracted from it? And why should we care
   - 🧐 **take notes** while the audience responds to your presentation (200 seconds)
 
 
-- time for questions or studying [more reference projects your found]()
+- time for questions or studying [more reference projects you found](https://github.com/leoneckert/critical-data-and-visualization-spring-2021/wiki/Two-Data-Stories-(week-7)) (also: [resources](other/resources))
 
 
 
