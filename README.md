@@ -33,8 +33,8 @@ So, what exactly is data? How is value extracted from it? And why should we care
 - [Week 4](#February-22) - Human / Bias
 - [Week 5](#March-1) - Surveillance Capitalism / Check-In
 - [Week 6](#March-8) - Data Zine Project Presentations 🎉
-- ⛳️ [Week 7](#March-15) - Prediction / Uncertainty
-- Week 8 - 5x20
+- [Week 7](#March-15) - Prediction / Uncertainty
+- ⛳️ [Week 8](#March-22) - 5x20
 - Week 9 - Check-In
 - **SPRING BREAK**
 - Week 10 - Data Story: Contextual Report Presentations 📚
@@ -415,20 +415,20 @@ So, what exactly is data? How is value extracted from it? And why should we care
 - During the Presentations, **please help each other** by giving feedback, thoughts, ideas, inspiration in [this document](https://docs.google.com/document/d/1nsqtuA-rXT2j6TGQWAj2OEOgTpBQE1SDfLCTM-zORio/edit?usp=sharing).
 - [Link To Wiki](https://github.com/leoneckert/critical-data-and-visualization-spring-2021/wiki/Data-Zine-Project-(week-6))
 - Presentation Order:
-  - [ ] [Winny](https://winnyww.github.io/cdv-student/projects/datazine-template/cover.html) [video](https://youtu.be/3WkaMJvBYdY)
-  - [ ] [Zoe](https://zoexiao0516.github.io/cdv-student/projects/data-zine/cover.html)
-  - [ ] [Adrien](https://adrienven.github.io/cdv-student/projects/placeholder/Datazine/datazine-template/cover.html)
-  - [ ] [Sarah](https://sa4913.github.io/cdv-student/projects/FinalDataZine/cover.html) [video](https://youtu.be/Ohg1YXomAwA)
-  - [ ] [Alan](https://alanlechengchao.github.io/cdv-student/projects/data-zine/datazine/cover.html)
-  - [ ] [Tina](https://tinazhang226.github.io/cdv-student/projects/datazine-FinalV/cover.html)
-  - [ ] [Shengli](https://writecards.github.io/cdv-student/projects/data-zine/cover.html)
-  - [ ] [Tom](https://tomzhu1024.github.io/cdv-student/projects/datazine/cover.html)
-  - [ ] [Linda](https://lindaaali.github.io/CDV-Linda/projects/placeholder/datazine-template/cover.html)
-  - [ ] [Jyoti](https://koapush.github.io/cdv-student/projects/zine-project/cover.html)
-  - [ ] [Alex](https://alexwang624.github.io/cdv-student/projects/data-zine/data-zine/cover.htmlE)
-  - [ ] [Alexis](https://qp274.github.io/cdv/projects/datazine/cover.html)
-  - [ ] [Layla](https://shenshenl.github.io/cdv-student/projects/datazineTemplate/)
-  - [ ] [Clover](https://clover0208.github.io/cdv-student/projects/placeholder/datazine-template/cover.html)
+  - [X] [Winny](https://winnyww.github.io/cdv-student/projects/datazine-template/cover.html) [video](https://youtu.be/3WkaMJvBYdY)
+  - [X] [Zoe](https://zoexiao0516.github.io/cdv-student/projects/data-zine/cover.html)
+  - [X] [Adrien](https://adrienven.github.io/cdv-student/projects/placeholder/Datazine/datazine-template/cover.html)
+  - [X] [Sarah](https://sa4913.github.io/cdv-student/projects/FinalDataZine/cover.html) [video](https://youtu.be/Ohg1YXomAwA)
+  - [X] [Alan](https://alanlechengchao.github.io/cdv-student/projects/data-zine/datazine/cover.html)
+  - [X] [Tina](https://tinazhang226.github.io/cdv-student/projects/datazine-FinalV/cover.html)
+  - [X] [Shengli](https://writecards.github.io/cdv-student/projects/data-zine/cover.html)
+  - [X] [Tom](https://tomzhu1024.github.io/cdv-student/projects/datazine/cover.html)
+  - [X] [Linda](https://lindaaali.github.io/CDV-Linda/projects/placeholder/datazine-template/cover.html)
+  - [X] [Jyoti](https://koapush.github.io/cdv-student/projects/zine-project/cover.html)
+  - [X] [Alex](https://alexwang624.github.io/cdv-student/projects/data-zine/data-zine/cover.htmlE)
+  - [X] [Alexis](https://qp274.github.io/cdv/projects/datazine/cover.html)
+  - [X] [Layla](https://shenshenl.github.io/cdv-student/projects/datazineTemplate/)
+  - [X] [Clover](https://clover0208.github.io/cdv-student/projects/placeholder/datazine-template/cover.html)
 
 
 
@@ -558,7 +558,7 @@ So, what exactly is data? How is value extracted from it? And why should we care
 
 
 
-<!-- # Week 8
+# Week 8
 
 ![week](assets/weeks/week8.png)
 
@@ -568,16 +568,22 @@ So, what exactly is data? How is value extracted from it? And why should we care
 ##### `5x20`
 *due today: 5x20seconds*
 
-- [content]
+
+- audience:
+  - 🤓 open this [shared document](https://docs.google.com/document/d/1_Vx52Vz_c-k-Nd9UwJJMIPkzQl6vZUtmbBcxPklR0gQ/edit?usp=sharing)
+  - 🖊 take notes:
+    - ✨ have you seen similar projects that could serve as **inspiration**?
+    - 📚 **related** areas of **research** for them to look at?
+    - 💡 general **advice or ideas** that can be helpful
+- presenter:
+  - 🥸 **present** (100 seconds)
+  - 😅 take a **deep breath**
+  - 🧐 **take notes** while the audience responds to your presentation (200 seconds)
 
 
-###### Assignments
+- time for questions or studying [more reference projects your found]()
 
-- .
 
-🔗 [Assignment Details](current-assignments)
-
-###### For your interest (optional): -->
 
 
 
