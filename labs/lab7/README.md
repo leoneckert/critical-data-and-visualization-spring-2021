@@ -1,7 +1,7 @@
 ## Lab 7 - More Practice: Enter/Update/Exit Selections
 
-My solution to the previous Lab 6 is [here](../lab-6/rosling-end/script.js).
-And [here](../lab-6/enter-update-exit-transition-end/script.js) is the code I wrote in LAB6's video.
+My solution to the previous Lab 6 is [here](../lab6/rosling-end/script.js).
+And [here](../lab6/enter-update-exit-transition-end/script.js) is the code I wrote in LAB6's video.
 
 ### Today
 
