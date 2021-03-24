@@ -589,26 +589,31 @@ So, what exactly is data? How is value extracted from it? And why should we care
 
 
 
-<!-- --- -->
+---
 
 
 
 
-<!-- ![wed](assets/days/wed-green.png)
+![wed](assets/days/wed-green.png)
 
 ##### March 24
 ##### `Generators, Components, Layouts`
 *due today: Coding Exercise 6*
 
-[content]
+- Check out previous [Coding Exercise](https://github.com/leoneckert/critical-data-and-visualization-spring-2021/wiki/Coding-Foundation-Exercise-(week8))
+- Any coding difficulties or questions?
+  - Who has downloaded their dataset and looked at it in Atom?
+
+[Details](labs/lab8) of today's Lab.
+
 
 ###### Assignments
 
+- 🕵️ Outline Research *(due 3/29)*
 - 👾 Coding Exercise 7 (Line Generators) *(due 3/31)*
 
 🔗 [Assignment Details](current-assignments)
 
-###### For your interest (optional): -->
 
 
 

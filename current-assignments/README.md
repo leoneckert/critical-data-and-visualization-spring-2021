@@ -218,7 +218,7 @@
 
 
 
-##### 🚀 5x20seconds: What's it all about?
+<!-- ##### 🚀 5x20seconds: What's it all about?
 *Due Monday, March 22:*
 - Prepare a very short presentation about your favorite of the three subjects your pre-selected.
 - Each of you will present their topic in this format:
@@ -226,7 +226,7 @@
   - 20 seconds per slide as you talk along explaining your interest and what you hope to make visible through your project
   - practice your text and its timing (email it to me by Sunday if that helps)
   - this is a VERY short presentation, do not invest more than maximum (!) 2 hours to prepare it.
-  - Add your 5 slides to this [Drive Folder](https://drive.google.com/drive/folders/1yDiWxc0uAIvAV7QSi8Dbip6lckfKkTME?usp=sharing) and add a link to the [Class Wiki](https://github.com/leoneckert/critical-data-and-visualization-spring-2021/wiki) by Sunday night, please.
+  - Add your 5 slides to this [Drive Folder](https://drive.google.com/drive/folders/1yDiWxc0uAIvAV7QSi8Dbip6lckfKkTME?usp=sharing) and add a link to the [Class Wiki](https://github.com/leoneckert/critical-data-and-visualization-spring-2021/wiki) by Sunday night, please. -->
 
 
 
@@ -234,7 +234,7 @@
 
 
 
-##### 👾 Coding Exercise 6 (Mastering Transitions)
+<!-- ##### 👾 Coding Exercise 6 (Mastering Transitions)
 
 *Due Wednesday, March 24:*
 - Finish the Website we started in [Lab 7](../labs/lab7).
@@ -244,19 +244,26 @@
     - make sure there is no glitch, no matter which button is pressed, things must transition smoothly to show the new data.
     - surprise us on the last button!
   - add your finished work to the [Class Wiki](https://github.com/leoneckert/critical-data-and-visualization-spring-2021/wiki)
-![image](../labs/lab7/assets/lab7.gif)
+![image](../labs/lab7/assets/lab7.gif) -->
 
 
 
+##### 🕵️ Outline Research
 
+*Due Monday, March 29:*
 
+- Next class is a 1-on-1 Check-In for the Contextual Report.
+  - You must have an ultimate decision on the dataset you will be using
+    - Download the dataset and take a look at it in Atom. Does it look usable for your project?
+  - Have a solidified idea about the approach: how is your story told, what is the story?
+  - Bring in a list of sources (ideally) and/or questions you will need or research for your report.
 
+##### 👾 Coding Exercise 7 (Line Generators)
 
-<!-- ##### 👾 Coding Exercise 7 (Line Generators)
+*Due Wednesday, March 31:*
 
-*Due Wednesday, March 31:* -->
-
-
+- modify the code created in [lab 8](../labs/lab8) to make the visualization behave in this way:
+![exercise](../labs/lab8/assets/line-transition.gif)
 
 
 
