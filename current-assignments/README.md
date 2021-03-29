@@ -263,12 +263,12 @@
 
 
 
-<!-- ##### 👾 Coding Exercise 7 (Line Generators)
+##### 👾 Coding Exercise 7 (Line Generators)
 
 *Due Wednesday, March 31:*
 
 - modify the code created in [lab 8](../labs/lab8) to make the visualization behave in this way:
-![exercise](../labs/lab8/assets/line-transition.gif) -->
+![exercise](../labs/lab8/assets/line-transition.gif)
 
 
 
