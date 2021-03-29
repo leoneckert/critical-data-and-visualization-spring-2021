@@ -34,8 +34,8 @@ So, what exactly is data? How is value extracted from it? And why should we care
 - [Week 5](#March-1) - Surveillance Capitalism / Check-In
 - [Week 6](#March-8) - Data Zine Project Presentations 🎉
 - [Week 7](#March-15) - Prediction / Uncertainty
-- ⛳️ [Week 8](#March-22) - 5x20
-- Week 9 - Check-In
+- [Week 8](#March-22) - 5x20
+- ⛳️ [Week 9](#March-29) - Check-In
 - **SPRING BREAK**
 - Week 10 - Data Story: Contextual Report Presentations 📚
 - Week 11 - Ethics / Privacy
@@ -627,7 +627,7 @@ So, what exactly is data? How is value extracted from it? And why should we care
 
 
 
-<!-- # Week 9
+# Week 9
 
 ![week](assets/weeks/week9.png)
 
@@ -635,9 +635,26 @@ So, what exactly is data? How is value extracted from it? And why should we care
 
 ##### March 29
 ##### `Check-In`
-*due today:*
+*due today: Outline Research*
 
-- [content]
+- 1-on-1 meetings
+  - 5 minutes each. Please be prepared with material you want to show me.
+  - Work on our project in the remaining class time.
+  - In this order:
+    - [ ] Winny
+    - [ ] Tom
+    - [ ] Zoe
+    - [ ] Tina
+    - [ ] Shengli
+    - [ ] Clover
+    - [ ] Alan
+    - [ ] Jyoti
+    - [ ] Alex
+    - [ ] Layla
+    - [ ] Adrien
+    - [ ] Sarah
+    - [ ] Alexis
+    - [ ] Linda
 
 
 ###### Assignments
@@ -646,7 +663,6 @@ So, what exactly is data? How is value extracted from it? And why should we care
 
 🔗 [Assignment Details](current-assignments)
 
-###### For your interest (optional): -->
 
 
 

@@ -248,7 +248,7 @@
 
 
 
-##### 🕵️ Outline Research
+<!-- ##### 🕵️ Outline Research
 
 *Due Monday, March 29:*
 
@@ -256,14 +256,19 @@
   - You must have an ultimate decision on the dataset you will be using
     - Download the dataset and take a look at it in Atom. Does it look usable for your project?
   - Have a solidified idea about the approach: how is your story told, what is the story?
-  - Bring in a list of sources (ideally) and/or questions you will need or research for your report.
+  - Bring in a list of sources (ideally) and/or questions you will need or research for your report. -->
 
-##### 👾 Coding Exercise 7 (Line Generators)
+
+
+
+
+
+<!-- ##### 👾 Coding Exercise 7 (Line Generators)
 
 *Due Wednesday, March 31:*
 
 - modify the code created in [lab 8](../labs/lab8) to make the visualization behave in this way:
-![exercise](../labs/lab8/assets/line-transition.gif)
+![exercise](../labs/lab8/assets/line-transition.gif) -->
 
 
 
@@ -278,11 +283,11 @@
 
 
 
-<!-- ##### 📖 Reading 5 (Ethics)
+##### 📖 Reading 5 (Ethics)
 
 *Due Sunday(!), April 18, at noon:*
 
-- Find this Reading Assignment [here](../readings/reading5). -->
+- Find this Reading Assignment [here](../readings/reading5).
 
 
 
