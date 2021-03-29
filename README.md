@@ -646,13 +646,13 @@ So, what exactly is data? How is value extracted from it? And why should we care
     - [ ] Zoe
     - [ ] Tina
     - [ ] Shengli
-    - [ ] Clover
     - [ ] Alan
-    - [ ] Jyoti
-    - [ ] Alex
     - [ ] Layla
     - [ ] Adrien
     - [ ] Sarah
+    - [ ] Clover
+    - [ ] Jyoti
+    - [ ] Alex
     - [ ] Alexis
     - [ ] Linda
 
