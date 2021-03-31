@@ -263,12 +263,12 @@
 
 
 
-##### 👾 Coding Exercise 7 (Line Generators)
+<!-- ##### 👾 Coding Exercise 7 (Line Generators)
 
 *Due Wednesday, March 31:*
 
 - modify the code created in [lab 8](../labs/lab8) to make the visualization behave in this way:
-![exercise](../labs/lab8/assets/line-transition.gif)
+![exercise](../labs/lab8/assets/line-transition.gif) -->
 
 
 
@@ -294,6 +294,18 @@
 
 
 
-<!-- ##### 👾 Coding Exercise 8 (Maps)
+##### 👾 Coding Exercise 8 (Maps)
 
-*Due Wednesday, April 21:* -->
+*Due Wednesday, April 21:*
+
+- Set yourself a visual goal for a map exercise (e.g. I want a dot to move from location to location).
+- This is not a "project", but an exercise and opportunity to create something visually pleasing.
+- Below are examples.
+  - play with different projections.
+  - try to transition between different projections.
+  - try to transition between different geojson data sets.
+  - or try the [geoOrthographic](https://observablehq.com/search?query=geoOrthographic) projection (get [abstract](https://twitter.com/mbostock/status/932784677185765377?lang=en) 😉)
+  - be playful.
+
+
+![lab9](../labs/lab9/assets/lab9-assignment.gif)

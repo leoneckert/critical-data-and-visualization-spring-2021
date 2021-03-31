@@ -668,23 +668,25 @@ So, what exactly is data? How is value extracted from it? And why should we care
 
 
 
-<!-- --- -->
+---
 
 
 
 
-<!-- ![wed](assets/days/wed-green.png)
+![wed](assets/days/wed-green.png)
 
 ##### March 31
 ##### `Maps`
 *due today: Coding Exercise 7*
 
-[content]
+- labs ahead (maps, tooltips, scrolling interactions, force graphs)
+- Quiz: I walk 1 km south, 1 km east, 1 km north. I am exactly where I started. Where am I?
+- [Maps](http://maps.google.com/): How many Chinas fit into Russia?
+
+[Details](labs/lab9) of today's Lab.
 
 ###### Assignments
 
 - 👾 Coding Exercise 8 (Maps) *(due 4/21)*
 
 🔗 [Assignment Details](current-assignments)
-
-###### For your interest (optional): -->

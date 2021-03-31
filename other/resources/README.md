@@ -11,6 +11,9 @@
 - [Markdown Cheatsheet](https://guides.github.com/features/mastering-markdown/)
 - [D3 Shapes - good explanations](https://www.d3indepth.com/shapes/)
 - [D3 Force Layouts](https://www.d3indepth.com/force-layout/)
+- [How to learn D3.js](https://wattenberger.com/blog/d3)
+- [React + D3.js](https://wattenberger.com/blog/react-and-d3)
+
 
 ### General JS
 - [Array Methods (to format/clean/restructure data)](https://dev.to/thegamefreak720/how-not-to-be-scared-of-js-array-methods-foreach-map-filter-and-reduce-2c13)
@@ -44,6 +47,7 @@
 - [A visual introduction to machine learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
 - [Data Detox Kit by Tactical Tech](https://datadetoxkit.org/en/home)
 - [Text on a path](https://blockbuilder.org/ChandrakantThakkarDigiCorp/c0a2df4928505c9d6a6d42daf6466130)
+- [Mercator Distortian Explorer](https://thetruesize.com/)
 
 ### Infos
 
