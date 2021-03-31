@@ -301,6 +301,7 @@
 - Set yourself a visual goal for a map exercise (e.g. I want a dot to move from location to location).
 - This is not a "project", but an exercise and opportunity to create something visually pleasing.
 - Below are examples.
+  - find geojson data you are interested in (a country, a province, the moon?)
   - play with different projections.
   - try to transition between different projections.
   - try to transition between different geojson data sets.
