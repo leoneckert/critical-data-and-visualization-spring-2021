@@ -22,7 +22,7 @@ Along with your writing, you are expected to present your research in a 5 minute
 
 **Both (writing and presentation) are due on April 12th.**
 
-**Submit** your writing to this [Drive Folder](https://drive.google.com/drive/folders/1YH60YvPJahddMmV_nOsb2LzMEEuAfdR1?usp=sharing). Add a link to the writing and another to your presentation slides to the [Class Wiki](https://github.com/leoneckert/critical-data-and-visualization-spring-2021/wiki).
+**Submit** your writing to this [Drive Folder](https://drive.google.com/drive/folders/1YH60YvPJahddMmV_nOsb2LzMEEuAfdR1?usp=sharing) and your presentation slides to [this one](https://drive.google.com/drive/folders/1Fy64fHgyM5LeRjuHquLZ7CDswVSNhvTM?usp=sharing). Add a links to both to the [Class Wiki](https://github.com/leoneckert/critical-data-and-visualization-spring-2021/wiki).
 
 
 ### The Data Story (Week 14)
