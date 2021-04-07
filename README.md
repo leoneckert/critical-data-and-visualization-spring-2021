@@ -641,20 +641,20 @@ So, what exactly is data? How is value extracted from it? And why should we care
   - 5 minutes each. Please be prepared with material you want to show me.
   - Work on our project in the remaining class time.
   - In this order:
-    - [ ] Winny
-    - [ ] Tom
-    - [ ] Zoe
-    - [ ] Tina
-    - [ ] Shengli
-    - [ ] Alan
-    - [ ] Layla
-    - [ ] Adrien
-    - [ ] Sarah
-    - [ ] Clover
-    - [ ] Jyoti
-    - [ ] Alex
-    - [ ] Alexis
-    - [ ] Linda
+    - [X] Winny
+    - [X] Tom
+    - [X] Zoe
+    - [X] Tina
+    - [X] Shengli
+    - [X] Alan
+    - [X] Layla
+    - [X] Adrien
+    - [X] Sarah
+    - [X] Clover
+    - [X] Jyoti
+    - [X] Alex
+    - [X] Alexis
+    - [X] Linda
 
 
 ###### Assignments
