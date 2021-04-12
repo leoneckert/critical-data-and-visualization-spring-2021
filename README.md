@@ -690,3 +690,32 @@ So, what exactly is data? How is value extracted from it? And why should we care
 - 👾 Coding Exercise 8 (Maps) *(due 4/21)*
 
 🔗 [Assignment Details](current-assignments)
+
+
+
+
+
+
+
+# Week 10
+
+![week](assets/weeks/week10.png)
+
+![mon](assets/days/amon-red.png)
+
+##### April 13
+##### `Contextual Report Presentations Part I`
+*due today: Contextual Report*
+
+- Open this shared [Document](https://docs.google.com/document/d/1SEWQ6axiF66ROUuFTQGJEG1-RuZhenaMkVJ-2h0gt2E/edit?usp=sharing) to give feedback to each other.
+  - All your projects are in progress - feedback will be extra valuable!
+- Presentation (5 minutes)
+- Feedback (5 minutes)
+- Schedule:
+  - [ ] Zoe
+  - [ ] Clover
+  - [ ] Shengli
+  - [ ] Winny
+  - [ ] ?
+  - [ ] ?
+  - [ ] ?
