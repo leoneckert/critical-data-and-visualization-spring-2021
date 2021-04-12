@@ -35,9 +35,9 @@ So, what exactly is data? How is value extracted from it? And why should we care
 - [Week 6](#March-8) - Data Zine Project Presentations 🎉
 - [Week 7](#March-15) - Prediction / Uncertainty
 - [Week 8](#March-22) - 5x20
-- ⛳️ [Week 9](#March-29) - Check-In
+- [Week 9](#March-29) - Check-In
 - **SPRING BREAK**
-- Week 10 - Data Story: Contextual Report Presentations 📚
+- ⛳️ [Week 10](#April-12) - Data Story: Contextual Report Presentations 📚
 - Week 11 - Ethics / Privacy
 - Week 12 - Check-In
 - Week 13 - Resistance
@@ -703,7 +703,7 @@ So, what exactly is data? How is value extracted from it? And why should we care
 
 ![mon](assets/days/amon-red.png)
 
-##### April 13
+##### April 12
 ##### `Contextual Report Presentations Part I`
 *due today: Contextual Report*
 
