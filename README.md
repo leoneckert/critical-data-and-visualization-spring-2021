@@ -710,7 +710,7 @@ So, what exactly is data? How is value extracted from it? And why should we care
 - Open this shared [Document](https://docs.google.com/document/d/1SEWQ6axiF66ROUuFTQGJEG1-RuZhenaMkVJ-2h0gt2E/edit?usp=sharing) to give feedback to each other.
   - All your projects are in progress - feedback will be extra valuable!
 - Presentation (5 minutes)
-- Feedback (5 minutes)
+- Feedback from class & guest crit Richard (5 minutes)
 - Schedule:
   - [ ] Zoe
   - [ ] Clover
