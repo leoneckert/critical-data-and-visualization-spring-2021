@@ -710,12 +710,40 @@ So, what exactly is data? How is value extracted from it? And why should we care
 - Open this shared [Document](https://docs.google.com/document/d/1SEWQ6axiF66ROUuFTQGJEG1-RuZhenaMkVJ-2h0gt2E/edit?usp=sharing) to give feedback to each other.
   - All your projects are in progress - feedback will be extra valuable!
 - Presentation (5 minutes)
-- Feedback from class & our guest Richard (5 minutes)
+- Feedback from class & our guest **Richard** (5 minutes)
 - Schedule:
-  - [ ] Zoe
-  - [ ] Clover
-  - [ ] Shengli
-  - [ ] Winny
-  - [ ] Tom
-  - [ ] ?
-  - [ ] ?
+  - [X] Zoe
+  - [X] Clover
+  - [X] Shengli
+  - [X] Winny
+  - [X] Tom
+  - [X] Alan
+  - [X] Alexis
+
+
+
+
+
+
+  ---
+
+
+
+
+![wed](assets/days/wed-red.png)
+
+##### April 14
+##### `Contextual Report Presentations Part II`
+
+- Open this shared [Document](https://docs.google.com/document/d/1iYWEbDAjo-iyDWOHBucYTSO9mUxOGEWHeWGTzZBnmKg/edit?usp=sharing) to give feedback to each other.
+  - All your projects are in progress - feedback will be extra valuable!
+- Presentation (5 minutes)
+- Feedback from class & our guest **Cindy** (5 minutes)
+- Schedule:
+  - [ ] Adrien
+  - [ ] Tina
+  - [ ] Jyoti
+  - [ ] Layla
+  - [ ] Linda
+  - [ ] Alex
+  - [ ] Sarah
