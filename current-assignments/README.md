@@ -320,7 +320,7 @@
 
 ##### 📐 Data Story Paper Prototype
 
-*Due Sunday, April 25:*
+*Due Sunday (by class time, it's a **Legislative Day**!), April 25:*
 
 - Create a detailed paper prototype for your final project.
   - Template for print:
