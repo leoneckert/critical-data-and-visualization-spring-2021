@@ -37,8 +37,8 @@ So, what exactly is data? How is value extracted from it? And why should we care
 - [Week 8](#March-22) - 5x20
 - [Week 9](#March-29) - Check-In
 - **SPRING BREAK**
-- ⛳️ [Week 10](#April-12) - Data Story: Contextual Report Presentations 📚
-- Week 11 - Ethics / Privacy
+- [Week 10](#April-12) - Data Story: Contextual Report Presentations 📚
+- ⛳️ [Week 11](#April-19) - Ethics / Privacy
 - Week 12 - Check-In
 - Week 13 - Resistance
 - Week 14 - Data Story Project Presentations 🥂
@@ -740,10 +740,42 @@ So, what exactly is data? How is value extracted from it? And why should we care
 - Presentation (5 minutes)
 - Feedback from class & our guest **Cindy** (5 minutes)
 - Schedule:
-  - [ ] Adrien
-  - [ ] Tina
-  - [ ] Jyoti
-  - [ ] Layla
-  - [ ] Linda
-  - [ ] Alex
-  - [ ] Sarah
+  - [X] Adrien
+  - [X] Tina
+  - [X] Jyoti
+  - [X] Layla
+  - [X] Linda
+  - [X] Alex
+  - [X] Sarah
+
+
+
+
+
+
+
+
+
+
+
+# Week 11
+
+![week](assets/weeks/week11.png)
+
+![mon](assets/days/amon-red.png)
+
+##### April 19
+##### `Check-In`
+*due today: Reading 5*
+
+- Readings Discussions!
+- [Data Story](projects/data-story-and-contextual-report-presentation)
+
+
+
+###### Assignments
+
+- 📐 Data Story Paper Prototype *(due 4/25)*
+- 🎈 Data Story *(due 5/10)*
+
+🔗 [Assignment Details](current-assignments)

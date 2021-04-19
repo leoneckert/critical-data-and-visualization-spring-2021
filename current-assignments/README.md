@@ -273,9 +273,11 @@
 
 
 
-##### 🗺 Data Story: Contextual Report
+
+
+<!-- ##### 🗺 Data Story: Contextual Report
 *Due Monday, April 12:*
-- Find this project [here](../projects/data-story-and-contextual-report-presentation).
+- Find this project [here](../projects/data-story-and-contextual-report-presentation). -->
 
 
 
@@ -283,11 +285,11 @@
 
 
 
-##### 📖 Reading 5 (Ethics)
+<!-- ##### 📖 Reading 5 (Ethics)
 
 *Due Sunday(!), April 18, at noon:*
 
-- Find this Reading Assignment [here](../readings/reading5).
+- Find this Reading Assignment [here](../readings/reading5). -->
 
 
 
@@ -310,3 +312,27 @@
 
 
 ![lab9](../labs/lab9/assets/lab9-assignment.gif)
+
+
+
+
+
+
+##### 📐 Data Story Paper Prototype
+
+*Due Wednesday, April 25:*
+
+- Create a detailed paper prototype for your final project.
+  - Template for print:
+    - A3 ([landscape](https://drive.google.com/file/d/140YP8ob9rt1zGyoAwh75V_V9UKUEr0II/view?usp=sharing), [portrait](https://drive.google.com/file/d/169yaiS_VhMRtQodg2slwX6SszlCHpRF_/view?usp=sharing))
+    - A4 ([landscape](https://drive.google.com/file/d/12hf5hzlQwk8vbSYZgCfoEfpbrMPISdTd/view?usp=sharing), [portrait](https://drive.google.com/file/d/1j4-xBS9KMDbiDBmSgLVOPBastlvyvQ-O/view?usp=sharing))
+- Scan it (or take very high resolution photographs in good light), then add a link to the [Class Wiki](https://github.com/leoneckert/critical-data-and-visualization-spring-2021/wiki).
+
+
+
+
+##### 🎈 Data Story
+
+*Due Wednesday, May 10:*
+
+- Find this project [here](../projects/data-story-and-contextual-report-presentation). 
