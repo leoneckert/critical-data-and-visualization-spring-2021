@@ -320,7 +320,7 @@
 
 ##### 📐 Data Story Paper Prototype
 
-*Due Wednesday, April 25:*
+*Due Sunday, April 25:*
 
 - Create a detailed paper prototype for your final project.
   - Template for print:
@@ -335,4 +335,4 @@
 
 *Due Wednesday, May 10:*
 
-- Find this project [here](../projects/data-story-and-contextual-report-presentation). 
+- Find this project [here](../projects/data-story-and-contextual-report-presentation).
