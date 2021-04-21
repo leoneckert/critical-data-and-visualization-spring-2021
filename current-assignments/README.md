@@ -296,7 +296,7 @@
 
 
 
-##### 👾 Coding Exercise 8 (Maps)
+<!-- ##### 👾 Coding Exercise 8 (Maps)
 
 *Due Wednesday, April 21:*
 
@@ -311,7 +311,7 @@
   - be playful.
 
 
-![lab9](../labs/lab9/assets/lab9-assignment.gif)
+![lab9](../labs/lab9/assets/lab9-assignment.gif) -->
 
 
 
@@ -327,6 +327,20 @@
     - A3 ([landscape](https://drive.google.com/file/d/140YP8ob9rt1zGyoAwh75V_V9UKUEr0II/view?usp=sharing), [portrait](https://drive.google.com/file/d/169yaiS_VhMRtQodg2slwX6SszlCHpRF_/view?usp=sharing))
     - A4 ([landscape](https://drive.google.com/file/d/12hf5hzlQwk8vbSYZgCfoEfpbrMPISdTd/view?usp=sharing), [portrait](https://drive.google.com/file/d/1j4-xBS9KMDbiDBmSgLVOPBastlvyvQ-O/view?usp=sharing))
 - Scan it (or take very high resolution photographs in good light), then add a link to the [Class Wiki](https://github.com/leoneckert/critical-data-and-visualization-spring-2021/wiki).
+
+
+
+
+
+##### 🏗  Finished structure of Data Story (no visualization)
+
+*Due Wednesday, April 28*
+
+- Finish your data story website.
+  - Build everything out except (!) the visualizations (keep placeholder divs a jpg of your paper prototype).
+  - Think of the structure, various pages.
+  - Importantly: think of the contextual information you need (mostly taken from the research you already did)
+- Submit you work to the [Class Wiki](https://github.com/leoneckert/critical-data-and-visualization-spring-2021/wiki).
 
 
 

@@ -779,3 +779,29 @@ So, what exactly is data? How is value extracted from it? And why should we care
 - 🎈 Data Story *(due 5/10)*
 
 🔗 [Assignment Details](current-assignments)
+
+
+---
+
+
+
+
+![wed](assets/days/wed-green.png)
+
+##### March 31
+##### `Tooltips`
+*due today: Coding Exercise 8*
+
+- **Asynchronous** Lab
+  - In the link below, you will find a video walking you through creating "tooltips" in D3.
+  - Tooltips are dynamic pointers, or information that appears and moves as you interact with your visualization.
+  ![labs/lab10/assets/tooltip1.gif](labs/lab10/assets/tooltips.gif)
+- Optional: a workshop about Scraping content from the web with python.
+
+[Details](labs/lab10) of today's Lab.
+
+###### Assignments
+
+- 🏗  Finished structure of Data Story (no visualization) *(due 4/28)*
+
+🔗 [Assignment Details](current-assignments)
