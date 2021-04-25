@@ -805,3 +805,44 @@ So, what exactly is data? How is value extracted from it? And why should we care
 - 🏗  Finished structure of Data Story (no visualization) *(due 4/28)*
 
 🔗 [Assignment Details](current-assignments)
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Week 12
+
+![week](assets/weeks/week12.png)
+
+![mon](assets/days/sun-red.png)
+
+##### April 25
+##### `Check-In`
+*due today: Data Story Paper Prototype*
+
+- 1-on-1 meetings
+  - 5 minutes each. Please be prepared with material you want to show me.
+  - Work on our project in the remaining class time.
+  - In this order:
+    - [ ] Alexis
+    - [ ] Linda
+    - [ ] Sarah
+    - [ ] Clover
+    - [ ] Jyoti
+    - [ ] Alex
+    - [ ] Winny
+    - [ ] Tina
+    - [ ] Alan
+    - [ ] Layla
+    - [ ] Shengli
+    - [ ] Zoe
+    - [ ] Tom
+    - [ ] Adrien

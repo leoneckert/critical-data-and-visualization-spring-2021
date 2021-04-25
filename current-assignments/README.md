@@ -318,7 +318,7 @@
 
 
 
-##### 📐 Data Story Paper Prototype
+<!-- ##### 📐 Data Story Paper Prototype
 
 *Due Sunday (by class time, it's a **Legislative Day**!), April 25:*
 
@@ -326,7 +326,7 @@
   - Template for print:
     - A3 ([landscape](https://drive.google.com/file/d/140YP8ob9rt1zGyoAwh75V_V9UKUEr0II/view?usp=sharing), [portrait](https://drive.google.com/file/d/169yaiS_VhMRtQodg2slwX6SszlCHpRF_/view?usp=sharing))
     - A4 ([landscape](https://drive.google.com/file/d/12hf5hzlQwk8vbSYZgCfoEfpbrMPISdTd/view?usp=sharing), [portrait](https://drive.google.com/file/d/1j4-xBS9KMDbiDBmSgLVOPBastlvyvQ-O/view?usp=sharing))
-- Scan it (or take very high resolution photographs in good light), then add a link to the [Class Wiki](https://github.com/leoneckert/critical-data-and-visualization-spring-2021/wiki).
+- Scan it (or take very high resolution photographs in good light), then add a link to the [Class Wiki](https://github.com/leoneckert/critical-data-and-visualization-spring-2021/wiki). -->
 
 
 
