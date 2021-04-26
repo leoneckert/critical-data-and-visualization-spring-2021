@@ -342,8 +342,11 @@
   - Importantly: think of the contextual information you need (mostly taken from the research you already did)
 - Submit you work to the [Class Wiki](https://github.com/leoneckert/critical-data-and-visualization-spring-2021/wiki).
 
+##### 🏗  Finished version of Data Story (all included)
 
-
+*Due Wednesday, May 5*
+  - Include the visualizations into last week's websites
+  - Submit you work to the [Class Wiki](https://github.com/leoneckert/critical-data-and-visualization-spring-2021/wiki).
 
 ##### 🎈 Data Story
 

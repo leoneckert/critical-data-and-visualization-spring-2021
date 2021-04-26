@@ -38,8 +38,8 @@ So, what exactly is data? How is value extracted from it? And why should we care
 - [Week 9](#March-29) - Check-In
 - **SPRING BREAK**
 - [Week 10](#April-12) - Data Story: Contextual Report Presentations 📚
-- ⛳️ [Week 11](#April-19) - Ethics / Privacy
-- Week 12 - Check-In
+- [Week 11](#April-19) - Ethics / Privacy
+- ⛳️ [Week 12](#April-25) - Check-In
 - Week 13 - Resistance
 - Week 14 - Data Story Project Presentations 🥂
 
@@ -822,7 +822,7 @@ So, what exactly is data? How is value extracted from it? And why should we care
 
 ![week](assets/weeks/week12.png)
 
-![mon](assets/days/sun-red.png)
+![sun](assets/days/sun-red.png)
 
 ##### April 25
 ##### `Check-In`
@@ -832,17 +832,39 @@ So, what exactly is data? How is value extracted from it? And why should we care
   - 5 minutes each. Please be prepared with material you want to show me.
   - Work on our project in the remaining class time.
   - In this order:
-    - [ ] Alexis
-    - [ ] Linda
-    - [ ] Sarah
-    - [ ] Clover
-    - [ ] Jyoti
-    - [ ] Alex
-    - [ ] Winny
-    - [ ] Tina
-    - [ ] Alan
-    - [ ] Layla
-    - [ ] Shengli
-    - [ ] Zoe
-    - [ ] Tom
-    - [ ] Adrien
+    - [X] Alexis
+    - [X] Linda
+    - [X] Sarah
+    - [X] Clover
+    - [X] Jyoti
+    - [X] Alex
+    - [X] Winny
+    - [X] Tina
+    - [X] Alan
+    - [X] Layla
+    - [X] Shengli
+    - [X] Zoe
+    - [X] Tom
+    - [X] Adrien
+
+
+
+
+
+---
+
+
+
+
+![mon](assets/days/mon-green.png)
+
+##### March 31
+##### `Scrolling and Force`
+
+[Details](labs/lab11) of today's Lab.
+
+###### Assignments
+
+- 🏗  Finished version of Data Story (all included) *(due 5/5)*
+
+🔗 [Assignment Details](current-assignments)
