@@ -350,6 +350,6 @@
 
 ##### 🎈 Data Story
 
-*Due Wednesday, May 10:*
+*Due Monday, May 10:*
 
 - Find this project [here](../projects/data-story-and-contextual-report-presentation).
