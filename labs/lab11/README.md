@@ -12,5 +12,5 @@
 - Scrolling Interaction and sticky Elements
   - [revised boilerplate code](sticky-basic.zip)
   - in class demo (if requested)
-    - [recording]()
-    - [in-class code](in-class-sticky-scrolling)
+    - [recording](https://nyu.zoom.us/rec/share/lKmeSZY-GuW9Ic0pOmElHPDNI7S0aYXn9oqwauFBNfhYQtbNWhIo2xamLk8g_OM.NOKLHwRz5O5ibgbH)
+    - [in-class code](in-class)
