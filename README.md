@@ -40,7 +40,7 @@ So, what exactly is data? How is value extracted from it? And why should we care
 - [Week 10](#April-12) - Data Story: Contextual Report Presentations 📚
 - [Week 11](#April-19) - Ethics / Privacy
 - ⛳️ [Week 12](#April-25) - Check-In
-- Week 13 - Resistance
+- ⛳️ [Week 13](#May-5) - Resistance
 - Week 14 - Data Story Project Presentations 🥂
 
 <!-- # Week 1 -->
@@ -858,7 +858,7 @@ So, what exactly is data? How is value extracted from it? And why should we care
 
 ![mon](assets/days/mon-green.png)
 
-##### March 31
+##### April 26
 ##### `Scrolling and Force`
 
 [Details](labs/lab11) of today's Lab.
@@ -868,3 +868,29 @@ So, what exactly is data? How is value extracted from it? And why should we care
 - 🏗  Finished version of Data Story (all included) *(due 5/5)*
 
 🔗 [Assignment Details](current-assignments)
+
+
+
+---
+
+
+
+
+![mon](assets/days/wed-green.png)
+
+##### April 28
+##### `Asynchronous Screening and optional synchronous advising`
+
+
+
+
+
+
+# Week 13
+
+![week](assets/weeks/week13.png)
+
+![sun](assets/days/wed-green.png)
+
+##### May 5
+##### `Review WIP and optional advising`

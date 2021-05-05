@@ -44,7 +44,7 @@
 - [Streets in Brussels](https://twitter.com/karim_douieb/status/1235137396418760705)
 - [Sorting Streets](http://fakeisthenewreal.org/street-grids/)
 - [https://projects.christianlaesser.com/travel-visa-inequality/](https://projects.christianlaesser.com/travel-visa-inequality/) <- all the data was scraped from Wikipedia
-- [A visual introduction to machine learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
+- [A visual introduction to machine learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/) (scrolling transitions!)
 - [Data Detox Kit by Tactical Tech](https://datadetoxkit.org/en/home)
 - [Text on a path](https://blockbuilder.org/ChandrakantThakkarDigiCorp/c0a2df4928505c9d6a6d42daf6466130)
 - [Mercator Distortian Explorer](https://thetruesize.com/)
