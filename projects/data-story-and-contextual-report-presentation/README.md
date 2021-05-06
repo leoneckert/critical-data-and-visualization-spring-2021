@@ -36,7 +36,7 @@ The Data Story is a webpage that includes at least two interactive data visualiz
 
 - Presentation (Due **May 10th**)
 - README.md (Due **May 12th**)
-- Submission for IMA Show (and CDV Archive) (Due **May 12th**)
+- Submission Form for IMA Show (and CDV Archive) (Due **May 12th**)
 
 Details:
 
@@ -72,7 +72,7 @@ When you push your project to GitHub, include a `README.md`. Include two section
 ```
 
 
-##### Submission for IMA Show (and CDV Archive) (Due **May 12th**)
+##### Submission Form for IMA Show (and CDV Archive) (Due **May 12th**)
 
 - [Submit your project to this Form](https://forms.gle/17rsRSoSQ5W9CDse8)
   - The info asked for in the form is the same as in the first section of your README.md. You may copy and paste this.
