@@ -39,7 +39,7 @@ So, what exactly is data? How is value extracted from it? And why should we care
 - **SPRING BREAK**
 - [Week 10](#April-12) - Data Story: Contextual Report Presentations 📚
 - [Week 11](#April-19) - Ethics / Privacy
-- ⛳️ [Week 12](#April-25) - Check-In
+- [Week 12](#April-25) - Check-In
 - ⛳️ [Week 13](#May-5) - Resistance
 - Week 14 - Data Story Project Presentations 🥂
 

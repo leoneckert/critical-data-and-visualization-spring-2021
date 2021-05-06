@@ -30,3 +30,49 @@ Along with your writing, you are expected to present your research in a 5 minute
 The Data Story is a webpage that includes at least two interactive data visualizations as well as contextual information (mainly taken from your Contextual Report). More detailed instructions for this will be shared with you after the Contextual Report is completed.
 
 **This is due on May 10th.**
+
+
+#### Delivery
+
+- Presentation (Due **May 10th**)
+- README.md (Due **May 12th**)
+- Submission for IMA Show (and CDV Archive) (Due **May 12th**)
+
+Details:
+
+##### Presentation (Due **May 10th**)
+
+- Prepare a 4-6 minute presentation of your project. Be prepared to share your screen (and sound if necessary) and demo your website while explaining it to the audience.
+  - assume the audience has never seen your project (guest critics won't have)
+  - don't assume that anyone reads large passages of text during your presentation - explain/summarize what we need to know
+  - talk about your process, compromises you made, aspects you are most proud of as well those that didn't turn out the way you intended.
+  - Add links to code, page and presentation slides to the [Class Wiki](https://github.com/leoneckert/critical-data-and-visualization-spring-2021/wiki).
+
+##### README.md (Due **May 12th**)
+
+When you push your project to GitHub, include a `README.md`. Include two sections:
+
+```
+## The Project
+ - The project's name
+ - A link to the live version of the project
+ - An animated GIF of your favorite detail of the visualization
+  - don't try to include every aspect of your project in one GIF, just **a small aspect that you think looks good** and will make people want to visit it (something that moves, e.g. a transition)
+ - 2-3 sentences about the project
+  - written in a style that will make people want to visit it
+ - links to the source of the data you used
+  - if you compiled the data yourself, describe your methodology
+
+## The Process
+
+- Why did you choose to visualize the data in this way?
+- What can be seen in the visualization? Does it reveal something you didn't expect?
+- Did you make crucial compromises? Which ones?
+- If you had more time, what would you change, improve, add to the project?
+```
+
+
+##### Submission for IMA Show (and CDV Archive) (Due **May 12th**)
+
+- [Submit your project to this Form](https://forms.gle/17rsRSoSQ5W9CDse8)
+  - The info asked for in the form is the same as in the first section of your README.md. You may copy and paste this.

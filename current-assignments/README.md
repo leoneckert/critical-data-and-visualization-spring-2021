@@ -332,7 +332,7 @@
 
 
 
-##### 🏗  Finished structure of Data Story (no visualization)
+<!-- ##### 🏗  Finished structure of Data Story (no visualization)
 
 *Due Wednesday, April 28*
 
@@ -340,16 +340,16 @@
   - Build everything out except (!) the visualizations (keep placeholder divs a jpg of your paper prototype).
   - Think of the structure, various pages.
   - Importantly: think of the contextual information you need (mostly taken from the research you already did)
-- Submit you work to the [Class Wiki](https://github.com/leoneckert/critical-data-and-visualization-spring-2021/wiki).
+- Submit you work to the [Class Wiki](https://github.com/leoneckert/critical-data-and-visualization-spring-2021/wiki). -->
 
-##### 🏗  Finished version of Data Story (all included)
+<!-- ##### 🏗  Finished version of Data Story (all included)
 
 *Due Wednesday, May 5*
   - Include the visualizations into last week's websites
-  - Submit you work to the [Class Wiki](https://github.com/leoneckert/critical-data-and-visualization-spring-2021/wiki).
+  - Submit you work to the [Class Wiki](https://github.com/leoneckert/critical-data-and-visualization-spring-2021/wiki). -->
 
 ##### 🎈 Data Story
 
 *Due Monday, May 10:*
-
+- The **submission guidelines** are [here](../projects/data-story-and-contextual-report-presentation)
 - Find this project [here](../projects/data-story-and-contextual-report-presentation).
