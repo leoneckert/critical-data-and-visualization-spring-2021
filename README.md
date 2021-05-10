@@ -894,3 +894,27 @@ So, what exactly is data? How is value extracted from it? And why should we care
 
 ##### May 5
 ##### `Review WIP and optional advising`
+
+
+# Week 14
+
+![week](assets/weeks/week14.png)
+
+![sun](assets/days/amon-red.png)
+
+##### May 10
+##### `Data Story Presentations`
+*due today: Data Story*
+
+- Presentation (45 minutes)
+- Feedback (5 minutes)
+  - from the class (I want to hear from all of you, please)
+  - from our guests **Richard** and **Vytas**
+- Presenters:
+ - [Alexis](https://qp274.github.io/cdv/projects/nickcave/)
+ - [Tom](https://play.tomzhu.site/cdv-data-story/index.html)
+ - [Tina](https://tinazhang226.github.io/cdv-student/projects/IMDb.VS.Douban/index.html)
+ - [Zoe](https://zoexiao0516.github.io/cdv-student/projects/data-story/index.html)
+ - [Alan](https://alanlechengchao.github.io/cdv-student/projects/data-story/)
+ - [Clover](https://clover0208.github.io/cdv-student/projects/enter/index.html)
+ - [Jyoti](https://koapush.github.io/cdv-student/projects/data-story/)
