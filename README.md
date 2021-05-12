@@ -900,7 +900,7 @@ So, what exactly is data? How is value extracted from it? And why should we care
 
 ![week](assets/weeks/week14.png)
 
-![sun](assets/days/amon-red.png)
+![mon](assets/days/amon-red.png)
 
 ##### May 10
 ##### `Data Story Presentations`
@@ -918,3 +918,24 @@ So, what exactly is data? How is value extracted from it? And why should we care
  - [Alan](https://alanlechengchao.github.io/cdv-student/projects/data-story/)
  - [Clover](https://clover0208.github.io/cdv-student/projects/enter/index.html)
  - [Jyoti](https://koapush.github.io/cdv-student/projects/data-story/)
+
+
+
+
+ ![sun](assets/days/wed-red.png)
+
+ ##### May 12
+ ##### `Data Story Presentations`
+
+ - Presentation (45 minutes)
+ - Feedback (5 minutes)
+   - from the class (I want to hear from all of you, please)
+   - from our guests **Cindy** and **Stavros**
+ - Presenters:
+  - [Layla](https://shenshenl.github.io/cdv-student/projects/DataStory/story/back.html)
+  - [Linda](https://lindaaali.github.io/CDV-Linda/projects/placeholder/disneyland%20project/index.html)
+  - [Winny](https://winnyww.github.io/cdv-student/projects/data-story/website/index.html)
+  - [Alex](https://alexwang624.github.io/cdv-student/projects/data-story/finished/)
+  - [Sarah](https://sa4913.github.io/cdv-student/projects/DataStory/intro.html)
+  - [Adrien](https://adrienven.github.io/cdv-student/projects/placeholder/Data-Story/index.html)
+  - [Shengli](https://writecards.github.io/cdv-student/projects/data-story/final-structure/index.html)
